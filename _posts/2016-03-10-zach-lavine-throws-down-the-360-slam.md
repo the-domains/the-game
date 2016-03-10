@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Zach LaVine gets out on the break and makes the 360 jam look easy. About the NBA: The NBA is the premier professional basketball league in the United States and Canada. The league is truly global, with games and programming in 215 countries and territories in 47 languages, as well as NBA rosters at the start of the 2015-16 season featuring 100 international players from 37 countries and territories.'
-datePublished: '2016-03-10T00:37:05.645Z'
-dateModified: '2016-03-10T00:36:07.430Z'
+datePublished: '2016-03-10T00:40:14.510Z'
+dateModified: '2016-03-10T00:37:08.464Z'
 author:
   - name: NBA
     url: 'https://www.youtube.com/user/NBA'
