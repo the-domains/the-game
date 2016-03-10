@@ -1,14 +1,10 @@
 ---
-author:
-  - name: NBA
-    url: 'https://www.youtube.com/user/NBA'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=6AxzyHJ_Tfg'
+inLanguage: en
+starred: false
 keywords:
   - nba
   - duration
@@ -20,8 +16,14 @@ keywords:
   - grass
   - league
   - raptors
-description: 'Aaron Gordon takes the feed from Victor Oladipo and powers home a monster windmill jam. About the NBA: The NBA is the premier professional basketball league in the United States and Canada.'
-inLanguage: en
+description: ''
+datePublished: '2016-03-10T00:42:58.346Z'
+dateModified: '2016-03-10T00:39:40.611Z'
+author:
+  - name: NBA
+    url: 'https://www.youtube.com/user/NBA'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=6AxzyHJ_Tfg&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=6AxzyHJ_Tfg'
-title: 'Aaron Gordon Powers Home the Windmill Jam!'
-datePublished: '2016-03-10T00:26:13.213Z'
-dateModified: '2016-03-10T00:25:31.274Z'
+title: 'Aaron Gordon Contra a gravidade!'
 sourcePath: _posts/2016-03-10-aaron-gordon-powers-home-the-windmill-jam.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
