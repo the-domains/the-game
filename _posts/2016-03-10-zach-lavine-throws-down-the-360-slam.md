@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=iXSp9lCWisQ'
+inLanguage: null
+starred: false
+keywords: []
+description: 'Zach LaVine gets out on the break and makes the 360 jam look easy. About the NBA: The NBA is the premier professional basketball league in the United States and Canada. The league is truly global, with games and programming in 215 countries and territories in 47 languages, as well as NBA rosters at the start of the 2015-16 season featuring 100 international players from 37 countries and territories.'
+datePublished: '2016-03-10T00:37:05.645Z'
+dateModified: '2016-03-10T00:36:07.430Z'
 author:
   - name: NBA
     url: 'https://www.youtube.com/user/NBA'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'Zach LaVine gets out on the break and makes the 360 jam look easy. About the NBA: The NBA is the premier professional basketball league in the United States and Canada. The league is truly global, with games and programming in 215 countries and territories in 47 languages, as well as NBA rosters at the start of the 2015-16 season featuring 100 international players from 37 countries and territories.'
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=iXSp9lCWisQ'
 title: 'Zach LaVine Throws Down the 360 Slam!'
-datePublished: '2016-03-10T00:28:14.369Z'
-dateModified: '2016-03-10T00:27:24.258Z'
 sourcePath: _posts/2016-03-10-zach-lavine-throws-down-the-360-slam.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
