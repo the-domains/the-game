@@ -1,20 +1,27 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:4ddf5f15-bbbc-4b07-b1df-ea9f6b104387'
+inLanguage: null
+starred: false
+keywords: []
 description: 'Essa final promete, de um lado um time de jogo rápido e cinco vezes campeões, contra Villanova, um time que joga cadenciado aproveitando cada ataque que realiza'
+datePublished: '2016-04-05T02:43:17.532Z'
+dateModified: '2016-04-05T02:43:12.062Z'
 author: []
-datePublished: '2016-04-05T02:33:50.601Z'
-publisher:
-  domain: ''
-  name: ''
-title: 'Essa final promete, de um lado um time de jogo rápido e cinco vezes campeões, contra Villanova, um time que joga cadenciado aproveitando cada ataque que realiza... Escolha seu lado, a estrada termina aqui. #NCAA'
-dateModified: '2016-04-05T02:33:00.528Z'
+title: 'NCAA - Essa final promete!!'
 sourcePath: _posts/2016-04-05-essa-final-promete-de-um-lado-um-time-de-jogo-rapido-e-cinc.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: essa-final-promete-de-um-lado-um-time-de-jogo-rapido-e-cinc/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Essa final promete, de um lado um time de jogo rápido e cinco vezes campeões, contra Villanova, um time que joga cadenciado aproveitando cada ataque que realiza... Escolha seu lado, a estrada termina aqui. \#NCAA
+# NCAA - Essa final promete!!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/132cbcf0-d5d1-48e3-bbc6-0f494d673c67.png)
