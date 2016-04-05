@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Essa final promete, de um lado um time de jogo rápido e cinco vezes campeões, contra Villanova, um time que joga cadenciado aproveitando cada ataque que realiza'
-datePublished: '2016-04-05T02:43:17.532Z'
-dateModified: '2016-04-05T02:43:12.062Z'
+datePublished: '2016-04-05T02:55:10.254Z'
+dateModified: '2016-04-05T02:54:45.401Z'
 author: []
 title: 'NCAA - Essa final promete!!'
 sourcePath: _posts/2016-04-05-essa-final-promete-de-um-lado-um-time-de-jogo-rapido-e-cinc.md
