@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'urn:uuid:18fe85b6-537e-4503-85cb-3b3d1c393963'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-05T23:38:41.633Z'
-dateModified: '2016-04-05T23:38:39.588Z'
+datePublished: '2016-04-05T23:56:09.959Z'
+dateModified: '2016-04-05T23:55:24.984Z'
 author: []
 title: 'Villanova ganhou o campeonato da NCAA com um arremesso no estouro do cronômetro!'
 sourcePath: _posts/2016-04-05-villanova-ganhou-o-campeonato-da-ncaa-com-um-arremesso-no-es.md
@@ -19,6 +18,7 @@ publisher:
   domain: ''
   url: null
   favicon: null
+url: villanova-ganhou-o-campeonato-da-ncaa-com-um-arremesso-no-es/index.html
 _context: 'http://schema.org'
 _type: Article
 
