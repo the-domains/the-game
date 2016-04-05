@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-05T23:27:01.692Z'
-dateModified: '2016-04-05T23:27:00.944Z'
+datePublished: '2016-04-05T23:37:26.373Z'
+dateModified: '2016-04-05T23:37:11.403Z'
 author: []
 title: 'Villanova ganhou o campeonato da NCAA com um arremesso no estouro do cronômetro!'
 sourcePath: _posts/2016-04-05-villanova-ganhou-o-campeonato-da-ncaa-com-um-arremesso-no-es.md
