@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'urn:uuid:1a3891de-5124-49d4-8b54-719c2f1b5e56'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-06T11:49:26.363Z'
-dateModified: '2016-04-06T11:35:11.419Z'
+datePublished: '2016-04-06T12:09:40.935Z'
+dateModified: '2016-04-06T12:09:39.287Z'
 author: []
 title: Tão perto e ao mesmo tempo tão longe..
+sourcePath: _posts/2016-04-06-tao-perto-e-ao-mesmo-tempo-tao-longe.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2016-04-06-tao-perto-e-ao-mesmo-tempo-tao-longe.md
-published: true
+url: tao-perto-e-ao-mesmo-tempo-tao-longe/index.html
 _context: 'http://schema.org'
 _type: Article
 
