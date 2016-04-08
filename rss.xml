@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 14:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 13:11:47 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Warriors vence 70ª partida ]]></title>
+            <description><![CDATA[<article><h1>Warriors vence 70ª partida </h1><p>O placar anuncia que o Golden State Warriors enfrentaria o San Antonio Spurs na quinta feira (07), mas na verdade eles iriam jogar contra a História.</p></article>]]></description>
+            <link>http://thegame.com.br/warriors-vence-70a-partida/index.html</link>
+            <guid isPermaLink="false">00ace94c-42fa-41e5-9d00-456c606f95f5</guid>
+            <pubDate>Fri, 08 Apr 2016 13:11:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tão perto e ao mesmo tempo tão longe..]]></title>
             <description><![CDATA[<article><h1>Tão perto e ao mesmo tempo tão longe..</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59e16756-3299-4a69-9857-45a8cb0f44af.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=iXSp9lCWisQ</link>
             <guid isPermaLink="false">220537fb-0132-4f09-bcab-60f1facbbb14</guid>
             <pubDate>Thu, 10 Mar 2016 02:37:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aaron Gordon Contra a gravidade!]]></title>
-            <description><![CDATA[<article><h1>Aaron Gordon Contra a gravidade!</h1><p>Aaron Gordon não deixa barato e mantém a disputa aberta.. Mais uma nota #50 para o highflyer que mantém o campeonato de enterradas em aberto e quer provar entre os novatos que tentam cravar além da bola, seus nome na historia da liga, mesmo jogando em equipes que estão passando por reformulações, aparentemente o espetáculo está garantido nas ultimas rodadas até os playoffs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8f1c3c49a5d6261f669de62e3e263a18ed62f97.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=6AxzyHJ_Tfg</link>
-            <guid isPermaLink="false">5eb6a2a6-1b49-438e-bce5-c4b492f8fe90</guid>
-            <pubDate>Thu, 10 Mar 2016 02:41:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
