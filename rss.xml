@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 17:47:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 18:12:45 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Uma noite memorável!]]></title>
+            <description><![CDATA[<article><h1>Uma noite memorável!</h1><p>Steph Curry e Kobe Bryant, em mais uma noite impecável...</p></article>]]></description>
+            <link>http://thegame.com.br/uma-noite-memoravel/index.html</link>
+            <guid isPermaLink="false">4c1df979-faf5-46eb-9667-ebd845604e9d</guid>
+            <pubDate>Fri, 15 Apr 2016 18:12:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Uma boa safra no ano de 2014... O que será que virá em junho?]]></title>
             <description><![CDATA[<article><h1>Uma boa safra no ano de 2014... O que será que virá em junho?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87202814-bba8-41f7-9966-eb0a2e867a68.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/3-lendas-imortalizadas-na-historia-do-esporte/index.html</link>
             <guid isPermaLink="false">433b6a57-3c65-4a81-91b0-201d528549bc</guid>
             <pubDate>Tue, 05 Apr 2016 02:21:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>O que podemos esperar do jogo de hoje entre PHI vs GSW?</p>]]></description>
-            <link>http://thegame.com.br/o-que-podemos-esperar-do-jogo-de-hoje-entre-phi-vs-gsw/index.html</link>
-            <guid isPermaLink="false">b15d4bda-158d-43aa-8ef6-bf74dfb4eece</guid>
-            <pubDate>Mon, 28 Mar 2016 00:35:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
