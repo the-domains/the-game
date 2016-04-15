@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 18:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 18:49:50 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Uma noite memorável!]]></title>
+            <description><![CDATA[<article><h1>Uma noite memorável!</h1><p>Steph Curry e Kobe Bryant, em mais uma noite impecável...</p></article>]]></description>
+            <link>http://thegame.com.br/uma-noite-memoravel/index.html</link>
+            <guid isPermaLink="false">4c1df979-faf5-46eb-9667-ebd845604e9d</guid>
+            <pubDate>Fri, 15 Apr 2016 18:49:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[E é chegada a hora!!!]]></title>
             <description><![CDATA[<article><h1>E é chegada a hora!!!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4679bf7-e06f-4364-95f0-04c8c6fbcf5f.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>urn:uuid:c5251ed2-c4d1-4737-8615-1c127c8042c5</link>
             <guid isPermaLink="false">b84d074b-1a45-49f7-9236-242237950471</guid>
             <pubDate>Fri, 15 Apr 2016 18:18:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uma noite memorável!]]></title>
-            <description><![CDATA[<article><h1>Uma noite memorável!</h1><p>Steph Curry e Kobe Bryant, em mais uma noite impecável...</p></article>]]></description>
-            <link>http://thegame.com.br/uma-noite-memoravel/index.html</link>
-            <guid isPermaLink="false">4c1df979-faf5-46eb-9667-ebd845604e9d</guid>
-            <pubDate>Fri, 15 Apr 2016 18:12:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Uma boa safra no ano de 2014... O que será que virá em junho?]]></title>
