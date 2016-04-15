@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Uma noticia que pode não agradar a todos os fãs de basquete, aparentemente os donos das franquias chegaram a um acordo, ondem eles concordam em vender patrocínios nos uniformes de jogo, com isso eles esperam gerar pelo menos USD$150mi\_"
-datePublished: '2016-04-15T19:11:37.293Z'
-dateModified: '2016-04-15T19:11:27.560Z'
+datePublished: '2016-04-15T19:14:41.527Z'
+dateModified: '2016-04-15T19:14:30.627Z'
 title: Donos dos times da NBA aprovam patrocínio nas camisetas de jogo
 author: []
+sourcePath: _posts/2016-04-15-donos-dos-times-da-nba-aprovam-patrocinio-nas-camisetas-de-j.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-donos-dos-times-da-nba-aprovam-patrocinio-nas-camisetas-de-j.md
-published: true
 url: donos-dos-times-da-nba-aprovam-patrocinio-nas-camisetas-de-j/index.html
 _type: Article
 
