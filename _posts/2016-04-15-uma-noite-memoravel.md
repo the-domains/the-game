@@ -5,24 +5,26 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'NYT Now: Just One More for Curry and Bryant'
-datePublished: '2016-04-15T18:12:41.907Z'
-dateModified: '2016-04-15T18:12:39.876Z'
+description: 'Steph Curry e Kobe Bryant, em mais uma noite impecável...'
+datePublished: '2016-04-15T18:49:16.921Z'
+dateModified: '2016-04-15T18:48:57.674Z'
 author: []
 title: 'Uma noite memorável!'
+sourcePath: _posts/2016-04-15-uma-noite-memoravel.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-uma-noite-memoravel.md
-published: true
 url: uma-noite-memoravel/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a491240f-ed0d-43eb-a1e7-790d946d3206.jpg)
+
 # Uma noite memorável!
 
 Steph Curry e Kobe Bryant, em mais uma noite impecável...
