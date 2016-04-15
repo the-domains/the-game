@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 18:49:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 19:12:00 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Donos dos times da NBA aprovam patrocínio nas camisetas de jogo]]></title>
+            <description><![CDATA[<article><h1>Donos dos times da NBA aprovam patrocínio nas camisetas de jogo</h1><p>Uma noticia que pode não agradar a todos os fãs de basquete, aparentemente os donos das franquias chegaram a um acordo, ondem eles concordam em vender patrocínios nos uniformes de jogo, com isso eles esperam gerar pelo menos USD$150mi </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/182cd2b4-c201-4c46-90a2-1a2ddd8b4676.jpg"></article>]]></description>
+            <link>http://thegame.com.br/donos-dos-times-da-nba-aprovam-patrocinio-nas-camisetas-de-j/index.html</link>
+            <guid isPermaLink="false">b7a92905-6d76-4112-9d02-b6a3cd3c2181</guid>
+            <pubDate>Fri, 15 Apr 2016 19:11:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Uma noite memorável!]]></title>
             <description><![CDATA[<article><h1>Uma noite memorável!</h1><p>Steph Curry e Kobe Bryant, em mais uma noite impecável...</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>urn:uuid:41485613-b58d-436a-a216-cadbcf007b9e</link>
             <guid isPermaLink="false">681e6b08-d7ed-4bd5-afef-ac555b432b8b</guid>
             <pubDate>Tue, 05 Apr 2016 23:25:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NCAA - Essa final promete!!]]></title>
-            <description><![CDATA[<article><h1>NCAA - Essa final promete!!</h1><p>Final College Basketball 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/132cbcf0-d5d1-48e3-bbc6-0f494d673c67.png"></article>]]></description>
-            <link>urn:uuid:4ddf5f15-bbbc-4b07-b1df-ea9f6b104387</link>
-            <guid isPermaLink="false">74cd29fc-6742-4a67-9a97-36de28c83e77</guid>
-            <pubDate>Tue, 05 Apr 2016 23:22:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
