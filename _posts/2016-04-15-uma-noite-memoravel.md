@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Steph Curry e Kobe Bryant, em mais uma noite impecável...'
-datePublished: '2016-04-15T18:49:16.921Z'
-dateModified: '2016-04-15T18:48:57.674Z'
+datePublished: '2016-04-15T19:19:05.521Z'
+dateModified: '2016-04-15T19:12:43.414Z'
 author: []
 title: 'Uma noite memorável!'
 sourcePath: _posts/2016-04-15-uma-noite-memoravel.md
@@ -28,7 +28,6 @@ _type: Article
 # Uma noite memorável!
 
 Steph Curry e Kobe Bryant, em mais uma noite impecável...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e2b4c90-9310-4a70-a99a-ad69bc1ba32a.jpg)
 
 Na noite de encerramento da Temporada Regular tivemos dois shows a parte, tudo na Califórnia com os grandes astros inspirados Curry na sua busca implacável pela perfeição o armador do Golden State Warriors brilhou de uma forma que parecia não ser possível... Em busca do que parecia que nunca mais se repetiria, eles não só igualaram a marca do time de 96' do Bulls como também quebram o recorde que já durava 20 anos! Nos três últimos jogos, Curry teve dificuldades para mostrar todo seu jogo, e parecia ser muito difícil dele conseguir atingir as duas marcas que ele tinha estipulado para 2016, além é claro da busca pelo Bicampeonato. No inicio da temporada ele afirmou que queria converter pelo menos  400 bolas de três pontos na temporada regular, mas nos últimos três jogos ele só tinha convertido 5 para se somar as 392 bolas já registradas. Então faltavam oito cestas para conseguir atingir a marca, o time era o Memphis Grizzles, conhecido por sua forte defesa e que segurou o armador três dias antes, deixando ele converter somente uma sexta de fora do perímetro. Ele precisaria fazer chover bolas de três pontos para atingir a marca, e foi exatamente isso que aconteceu!! Com a incrível marca de 10 bolas convertidas em 15 tentativas ele não só atingiu essa marca como também levou o time a alcançar as 73 tão desejadas vitórias.
 
