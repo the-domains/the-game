@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 22:07:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 15:00:04 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Quartas de final NBB: Mogi x Basquete Cearense]]></title>
+            <description><![CDATA[<article><h1>Quartas de final NBB: Mogi x Basquete Cearense</h1><p>MOGI x BASQUETE CEARENSE</p></article>]]></description>
+            <link>http://thegame.com.br/quartas-de-final-nbb-mogi-x-basquete-cearense/index.html</link>
+            <guid isPermaLink="false">8d2858d8-9660-42f5-b475-cb4af64692e1</guid>
+            <pubDate>Sat, 16 Apr 2016 15:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[5 times que saem na primeira rodada dos Playoffs 2015-16]]></title>
             <description><![CDATA[<article><h1>5 times que saem na primeira rodada dos Playoffs 2015-16</h1><p>Esse times são garantidos de perder no primeiro round dos Playoffs
@@ -70,13 +77,6 @@ Primeiramente quero deixar claro que a maioria das equipes são excelentes, mas 
             <link>http://thegame.com.br/tao-perto-e-ao-mesmo-tempo-tao-longe/index.html</link>
             <guid isPermaLink="false">4b753e05-6b5c-4880-a875-2c73fdfd0107</guid>
             <pubDate>Wed, 06 Apr 2016 12:09:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Villanova ganhou o campeonato da NCAA com um arremesso no estouro do cronômetro!]]></title>
-            <description><![CDATA[<article><h1>Villanova ganhou o campeonato da NCAA com um arremesso no estouro do cronômetro!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bb373b7-def7-4f70-9c11-e487f257251d.png"></article>]]></description>
-            <link>http://thegame.com.br/villanova-ganhou-o-campeonato-da-ncaa-com-um-arremesso-no-es/index.html</link>
-            <guid isPermaLink="false">c75eaee0-a79d-41b6-8f28-aad51561613c</guid>
-            <pubDate>Wed, 06 Apr 2016 00:03:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
