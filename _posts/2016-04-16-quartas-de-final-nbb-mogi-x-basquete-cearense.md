@@ -5,24 +5,23 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Mogi x Basquete Cearense\_"
-datePublished: '2016-04-16T15:00:00.695Z'
-dateModified: '2016-04-16T14:46:24.003Z'
+description: "Talvez a série mais equilibrada dessas quartas de final, o quarto e quinto colocados na fase de classificação, com o mesmos números de vitórias e derrotas, com a ordem de quem ocuparia a quarta colocação decidida apenas no saldo de cestas nos confrontos diretos entre si.\_"
+datePublished: '2016-04-16T15:05:13.776Z'
+dateModified: '2016-04-16T15:04:31.195Z'
 title: 'Quartas de final NBB: Mogi x Basquete Cearense'
 author: []
+sourcePath: _posts/2016-04-16-quartas-de-final-nbb-mogi-x-basquete-cearense.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-16-quartas-de-final-nbb-mogi-x-basquete-cearense.md
-published: true
 url: quartas-de-final-nbb-mogi-x-basquete-cearense/index.html
 _type: Article
 
 ---
-MOGI x BASQUETE CEARENSE
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2272f22-6a5f-4e8c-bd7f-ba8202335152.png)
 
 Talvez a série mais equilibrada dessas quartas de final, o quarto e quinto colocados na fase de classificação, com o mesmos números de vitórias e derrotas, com a ordem de quem ocuparia a quarta colocação decidida apenas no saldo de cestas nos confrontos diretos entre si. 
