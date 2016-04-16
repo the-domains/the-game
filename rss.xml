@@ -4,8 +4,16 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 15:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 22:51:30 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Quartas de final NBB: Paulistano x Brasília]]></title>
+            <description><![CDATA[<article><h1>Quartas de final NBB: Paulistano x Brasília</h1><p>
+Com a terceira melhor campanha na fase de classificação e com vaga direta garantida nas quartas de final, o Paulistano está descansado e pronto para iniciar a luta rumo a semi final, mas sabe que não será uma série fácil.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/344dbfc34f597d178eb7c203160f62a5975cedcc.png"></article>]]></description>
+            <link>http://thegame.com.br/quartas-de-final-nbb-paulistano-x-brasilia/index.html</link>
+            <guid isPermaLink="false">f1e15e57-09cc-4fab-a99c-3e9b34b166a2</guid>
+            <pubDate>Sat, 16 Apr 2016 22:51:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Quartas de final NBB: Mogi x Basquete Cearense]]></title>
             <description><![CDATA[<article><h1>Quartas de final NBB: Mogi x Basquete Cearense</h1><p>Talvez a série mais equilibrada dessas quartas de final, o quarto e quinto colocados na fase de classificação, com o mesmos números de vitórias e derrotas, com a ordem de quem ocuparia a quarta colocação decidida apenas no saldo de cestas nos confrontos diretos entre si. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fd5f821ff4823e1141249214a41dc821296c2c4.png"></article>]]></description>
@@ -70,13 +78,6 @@ Primeiramente quero deixar claro que a maioria das equipes são excelentes, mas 
             <link>urn:uuid:8415002b-4789-4452-851a-588871457353</link>
             <guid isPermaLink="false">1b19a29c-d3a0-4f3f-9f3c-bfb037ecbf83</guid>
             <pubDate>Wed, 06 Apr 2016 14:26:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tão perto e ao mesmo tempo tão longe..]]></title>
-            <description><![CDATA[<article><h1>Tão perto e ao mesmo tempo tão longe..</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59e16756-3299-4a69-9857-45a8cb0f44af.jpg"></article>]]></description>
-            <link>http://thegame.com.br/tao-perto-e-ao-mesmo-tempo-tao-longe/index.html</link>
-            <guid isPermaLink="false">4b753e05-6b5c-4880-a875-2c73fdfd0107</guid>
-            <pubDate>Wed, 06 Apr 2016 12:09:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
