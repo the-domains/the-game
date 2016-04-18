@@ -5,25 +5,27 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Pacers 100 x 90 Raptors
-datePublished: '2016-04-18T02:07:19.038Z'
-dateModified: '2016-04-18T02:06:56.966Z'
+description: "Pacers \_x \_RaptorsIND leads 1 - 0"
+datePublished: '2016-04-18T02:12:07.160Z'
+dateModified: '2016-04-18T02:11:58.077Z'
 title: Resultados da rodada de sábado da NBA
 author: []
+sourcePath: _posts/2016-04-18-resultados-da-rodada-de-sabado-da-nba.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-resultados-da-rodada-de-sabado-da-nba.md
-published: true
 url: resultados-da-rodada-de-sabado-da-nba/index.html
 _type: Article
 
 ---
 ****
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a8aab4f-0881-4e56-b7c1-84d45ab2cd2e.png)
+
+**Um jogo decidido no minuto final, um jogo com vitória do 7º em cima do 2º colocado, e dois placares elásticos**
 
 **Pacers  x  Raptors  
 IND leads 1 - 0**
