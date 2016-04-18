@@ -1,15 +1,27 @@
 ---
-title: 'Preparem o sofá, tem mais jogão hoje!!'
-datePublished: '2016-04-18T23:22:31.601Z'
-dateModified: '2016-04-18T22:08:43.675Z'
-author: []
-description: ''
-sourcePath: _posts/2016-04-18-preparem-o-sofa-tem-mais-jogao-hoje.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: ''
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-04-18T23:23:46.777Z'
+dateModified: '2016-04-18T23:23:37.222Z'
+title: 'Preparem o sofá, tem mais jogão hoje!!'
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-18-preparem-o-sofa-tem-mais-jogao-hoje.md
+published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+_type: Blurb
 
 ---
 # Preparem o sofá, tem mais jogão hoje!!
