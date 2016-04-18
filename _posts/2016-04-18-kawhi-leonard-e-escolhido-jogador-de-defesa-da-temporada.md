@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Kawhi Leonard é escolhido jogador de defesa da temporada
-datePublished: '2016-04-18T14:47:36.233Z'
-dateModified: '2016-04-18T14:44:39.871Z'
+datePublished: '2016-04-18T14:52:59.806Z'
+dateModified: '2016-04-18T14:52:53.265Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-18-kawhi-leonard-e-escolhido-jogador-de-defesa-da-temporada.md
