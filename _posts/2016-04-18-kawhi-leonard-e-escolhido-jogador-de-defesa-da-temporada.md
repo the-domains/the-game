@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Kawhi Leonard é escolhido jogador de defesa da temporada
-datePublished: '2016-04-18T14:52:59.806Z'
-dateModified: '2016-04-18T14:52:53.265Z'
+description: 'O jogador do San Antonio Spurs, que é a nova estrela do time, foi anunciado hoje pela NBA como o Jogador Defensivo da temporada 15/16. '
+datePublished: '2016-04-18T14:57:54.159Z'
+dateModified: '2016-04-18T14:57:45.503Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-18-kawhi-leonard-e-escolhido-jogador-de-defesa-da-temporada.md
@@ -22,8 +22,7 @@ url: kawhi-leonard-e-escolhido-jogador-de-defesa-da-temporada/index.html
 _type: Article
 
 ---
-Kawhi Leonard é escolhido jogador de defesa da temporada
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bd61a04-d6f8-4f3f-b384-3bef7f7f1fe2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ea28511-03c8-4fa2-8b9f-4e61c6124c24.jpg)
 
 O jogador do San Antonio Spurs, que é a nova estrela do time, foi anunciado hoje pela NBA como o Jogador Defensivo da temporada 15/16\.
 
