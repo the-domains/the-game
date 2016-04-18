@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 14:57:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 14:59:00 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cleveland Cavaliers - Kevin Love e Kyrie Irving aguardam a um ano pelo momento de redenção na Pós-Temporada]]></title>
+            <description><![CDATA[<article><h1>Cleveland Cavaliers - Kevin Love e Kyrie Irving aguardam a um ano pelo momento de redenção na Pós-Temporada</h1><p>Para Kevin Love, sua primeira pós temporada terminou na metade da série contra o Boston Celtics, durante o primeiro round, após distender o ombro e perder o restante dos jogos até o fim da temporada.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/265dfc13-a256-4211-9f6c-113d1dd0de0a.jpg"></article>]]></description>
+            <link>http://thegame.com.br/cleveland-cavaliers-kevin-love-e-kyrie-irving-aguardam-a-u/index.html</link>
+            <guid isPermaLink="false">4d63a400-4268-46a7-94c3-84da9820a638</guid>
+            <pubDate>Mon, 18 Apr 2016 14:58:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kawhi Leonard é escolhido jogador de defesa da temporada]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ea28511-03c8-4fa2-8b9f-4e61c6124c24.jpg">]]></description>
@@ -70,13 +77,6 @@ Primeiramente quero deixar claro que a maioria das equipes são excelentes, mas 
             <link>urn:uuid:c5251ed2-c4d1-4737-8615-1c127c8042c5</link>
             <guid isPermaLink="false">b84d074b-1a45-49f7-9236-242237950471</guid>
             <pubDate>Fri, 15 Apr 2016 18:18:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uma boa safra no ano de 2014... O que será que virá em junho?]]></title>
-            <description><![CDATA[<article><h1>Uma boa safra no ano de 2014... O que será que virá em junho?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87202814-bba8-41f7-9966-eb0a2e867a68.png"></article>]]></description>
-            <link>urn:uuid:3a040aad-d023-4d7c-baa4-446cd7252bc1</link>
-            <guid isPermaLink="false">0b3065f1-7fb9-47c5-8c88-c856512f59e6</guid>
-            <pubDate>Fri, 15 Apr 2016 17:47:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
