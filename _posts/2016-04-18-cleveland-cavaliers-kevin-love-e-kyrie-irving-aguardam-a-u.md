@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Para Kevin Love, sua primeira pós temporada terminou na metade da série contra o Boston Celtics, durante o primeiro round, após distender o ombro e perder o restante dos jogos até o fim da temporada.'
-datePublished: '2016-04-18T14:58:57.639Z'
-dateModified: '2016-04-18T14:58:44.223Z'
-title: Cleveland Cavaliers - Kevin Love e Kyrie Irving aguardam a um ano pelo momento de redenção na Pós-Temporada
+datePublished: '2016-04-18T15:15:30.449Z'
+dateModified: '2016-04-18T15:14:46.145Z'
+title: Cleveland Cavaliers - Kevin Love e Kyrie Irving aguardam à um ano pelo momento de redenção na Pós-Temporada
 author: []
+sourcePath: _posts/2016-04-18-cleveland-cavaliers-kevin-love-e-kyrie-irving-aguardam-a-u.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-cleveland-cavaliers-kevin-love-e-kyrie-irving-aguardam-a-u.md
-published: true
 url: cleveland-cavaliers-kevin-love-e-kyrie-irving-aguardam-a-u/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/265dfc13-a256-4211-9f6c-113d1dd0de0a.jpg)
 
-# Cleveland Cavaliers - Kevin Love e Kyrie Irving aguardam a um ano pelo momento de redenção na Pós-Temporada
+# Cleveland Cavaliers - Kevin Love e Kyrie Irving aguardam à um ano pelo momento de redenção na Pós-Temporada
 
 Para Kevin Love, sua primeira pós temporada terminou na metade da série contra o Boston Celtics, durante o primeiro round, após distender o ombro e perder o restante dos jogos até o fim da temporada.
 
