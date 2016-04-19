@@ -6,20 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-18T23:47:24.980Z'
-dateModified: '2016-04-18T23:47:19.611Z'
+datePublished: '2016-04-19T00:39:57.370Z'
+dateModified: '2016-04-19T00:39:54.661Z'
 title: Warriors é o time favorito para levar título contra o Cavaliers
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-18-warriors-e-o-time-favorito-para-levar-titulo-contra-o-cavali.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-warriors-e-o-time-favorito-para-levar-titulo-contra-o-cavali.md
-published: true
 url: warriors-e-o-time-favorito-para-levar-titulo-contra-o-cavali/index.html
 _type: Article
 
@@ -27,7 +27,7 @@ _type: Article
 # Warriors é o time favorito para levar título contra o Cavaliers
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f24ddcd-8a2f-4f41-b41a-e82afbe475cb.jpg)
 
-O Golden State Warriors são o time favorito para conquistar o campeonato 2015-16 da NBA. 
+O Golden State Warriors são os favoritos para conquistar o campeonato 2015-16 da NBA. 
 
 Campeões do ano passado eles já lideram as pesquisas de campo nos USA. Os Cavaliers, time que perdeu para os Warriors nas finais de 2015 estão em segundo lugar na disputa pelo título. 
 
