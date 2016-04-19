@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-19T00:39:57.370Z'
-dateModified: '2016-04-19T00:39:54.661Z'
+datePublished: '2016-04-19T00:47:04.591Z'
+dateModified: '2016-04-19T00:46:44.832Z'
 title: Warriors é o time favorito para levar título contra o Cavaliers
 author:
   - name: ''
