@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A temporada do Chicago Bulls começou cheia de otimismo e esperança e apesar de lesões e má química que descarrilou a busca dos Bulls para voltar aos Playoffs, Derrick Rose está bem positivo com as perspectivas de futuro.'
-datePublished: '2016-04-19T00:20:02.485Z'
-dateModified: '2016-04-19T00:19:54.558Z'
+datePublished: '2016-04-19T00:49:55.203Z'
+dateModified: '2016-04-19T00:49:51.931Z'
 title: 'Chicago Bulls: Derrick Rose - "As pessoas vão me apreciar por tudo que fiz.."'
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-19-chicago-bulls-derrick-rose-as-pessoas-vao-me-apreciar-po.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-19-chicago-bulls-derrick-rose-as-pessoas-vao-me-apreciar-po.md
-published: true
 url: chicago-bulls-derrick-rose-as-pessoas-vao-me-apreciar-po/index.html
 _type: Article
 
 ---
-# Chicago Bulls: Derrick Rose - "As pessoas vão me apreciar por tudo que fiz.."
+# Chicago Bulls: Derrick Rose - "As pessoas vão me apreciar por tudo que fiz..."
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0dbdb0d8-8120-4fdf-bf0c-c92111013645.jpg)
 
 A temporada do Chicago Bulls começou cheia de otimismo e esperança e apesar de lesões e má química que descarrilou a busca dos Bulls para voltar aos Playoffs, Derrick Rose está bem positivo com as perspectivas de futuro.
