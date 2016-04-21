@@ -6,22 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: Blazers x Clippers
-datePublished: '2016-04-21T17:20:17.071Z'
-dateModified: '2016-04-21T17:20:14.107Z'
+datePublished: '2016-04-21T17:27:18.643Z'
+dateModified: '2016-04-21T17:27:02.014Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-21-blazers-x-clippers.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-blazers-x-clippers.md
-published: true
 url: blazers-x-clippers/index.html
 _type: Article
 
 ---
+Resul
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f2aacef-2b82-4e39-a40e-99cb5ebf16bb.jpg)
 
 Blazers x Clippers
