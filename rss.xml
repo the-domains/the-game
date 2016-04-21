@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 01:55:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 17:21:48 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Blazers x Clippers</p>]]></description>
+            <link>http://thegame.com.br/blazers-x-clippers/index.html</link>
+            <guid isPermaLink="false">9de4ffac-4115-4f6a-8f81-c55db3397732</guid>
+            <pubDate>Thu, 21 Apr 2016 17:20:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/939485b5-91dd-41b6-9888-f5ab3e02c7d9.jpg" alt="" title="">]]></description>
@@ -70,13 +77,6 @@ Primeiramente quero deixar claro que a maioria das equipes são excelentes, mas 
             <link>http://thegame.com.br/5-times-que-saem-na-primeira-rodada-dos-playoffs-2015-16/index.html</link>
             <guid isPermaLink="false">3e4dc08f-39fa-4780-9213-2b16c42bc5bc</guid>
             <pubDate>Fri, 15 Apr 2016 22:07:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aprovado patrocínio nas camisetas de jogo ]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/182cd2b4-c201-4c46-90a2-1a2ddd8b4676.jpg" alt="" title="">]]></description>
-            <link>http://thegame.com.br/donos-dos-times-da-nba-aprovam-patrocinio-nas-camisetas-de-j/index.html</link>
-            <guid isPermaLink="false">b7a92905-6d76-4112-9d02-b6a3cd3c2181</guid>
-            <pubDate>Fri, 15 Apr 2016 19:25:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
