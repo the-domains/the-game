@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 02:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 03:27:35 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nova surra do OKC, dessa vez em Dallas]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/805467eb-403e-4989-9afb-77810338d6c4.jpg">]]></description>
+            <link>http://thegame.com.br/nova-surra-do-okc-dessa-vez-em-dallas/index.html</link>
+            <guid isPermaLink="false">02213f6d-6fb4-46e0-8132-f3ca6654a91c</guid>
+            <pubDate>Fri, 22 Apr 2016 03:27:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Resultados da rodada da NBA]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a97770de-ca2b-4851-ad64-bc3fd27d811e.jpg">]]></description>
@@ -68,15 +75,6 @@
             <link>http://thegame.com.br/quartas-de-final-nbb-mogi-x-basquete-cearense/index.html</link>
             <guid isPermaLink="false">8d2858d8-9660-42f5-b475-cb4af64692e1</guid>
             <pubDate>Sat, 16 Apr 2016 15:05:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 times que saem na primeira rodada dos Playoffs 2015-16]]></title>
-            <description><![CDATA[<article><h1>5 times que saem na primeira rodada dos Playoffs 2015-16</h1><p>Esse times são garantidos de perder no primeiro round dos Playoffs
-
-Primeiramente quero deixar claro que a maioria das equipes são excelentes, mas é uma questão de confrontos e nesse caso eles não tem chance de avançar na competição, todos os dados aqui são de opinião pessoal e não representam a realidade que pode vir acontecer.</p></article>]]></description>
-            <link>http://thegame.com.br/5-times-que-saem-na-primeira-rodada-dos-playoffs-2015-16/index.html</link>
-            <guid isPermaLink="false">3e4dc08f-39fa-4780-9213-2b16c42bc5bc</guid>
-            <pubDate>Fri, 15 Apr 2016 22:07:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
