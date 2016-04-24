@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Com uma defesa forte e um ataque mais trabalhado, dessa vez melhor para o tima de Charlotte que foi observado de perto por ninguém menos que Michael Jordan que viu seu time sair vencedor. '
-datePublished: '2016-04-24T02:13:12.318Z'
-dateModified: '2016-04-24T02:13:06.938Z'
+datePublished: '2016-04-24T02:18:53.996Z'
+dateModified: '2016-04-24T02:18:49.299Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-com-uma-defesa-forte-e-um-ataque-mais-trabalhado-dessa-vez.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-com-uma-defesa-forte-e-um-ataque-mais-trabalhado-dessa-vez.md
-published: true
 url: com-uma-defesa-forte-e-um-ataque-mais-trabalhado-dessa-vez/index.html
 _type: Article
 
