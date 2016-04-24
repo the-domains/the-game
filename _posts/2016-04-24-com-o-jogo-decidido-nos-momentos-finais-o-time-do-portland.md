@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Com o jogo decidido nos momentos finais, o time do Portland venceu em casa os Clippers por 96 x 88 e diminuiu a vantagem na série dos californianos para 2 x 1.'
-datePublished: '2016-04-24T05:53:53.361Z'
-dateModified: '2016-04-24T05:53:15.542Z'
+datePublished: '2016-04-24T05:57:10.995Z'
+dateModified: '2016-04-24T05:57:05.149Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-com-o-jogo-decidido-nos-momentos-finais-o-time-do-portland.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-com-o-jogo-decidido-nos-momentos-finais-o-time-do-portland.md
-published: true
 url: com-o-jogo-decidido-nos-momentos-finais-o-time-do-portland/index.html
 _type: Article
 
