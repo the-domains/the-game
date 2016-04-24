@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 02:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 03:29:43 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[UFC em Dallas? Quase isso.]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aef8cb73-4935-4618-8e2e-a35ad8466b51.jpg">]]></description>
+            <link>http://thegame.com.br/ufc-em-dallas-quase-isso/index.html</link>
+            <guid isPermaLink="false">3dda130e-ee7d-4dea-9724-1ea1bb242ae7</guid>
+            <pubDate>Sun, 24 Apr 2016 03:29:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Buzz em Charlotte!!]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/882fbb8e-cfc4-4cd1-a90a-aa5f1a73d4d4.png">]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/warriors-e-o-time-favorito-para-levar-titulo-contra-o-cavali/index.html</link>
             <guid isPermaLink="false">9a0fc481-6532-4f46-9364-3e1a5917fc67</guid>
             <pubDate>Tue, 19 Apr 2016 00:48:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cleveland Cavaliers - Kevin Love e Kyrie Irving aguardam à um ano pelo momento de redenção na Pós-Temporada]]></title>
-            <description><![CDATA[<article><h1>Cleveland Cavaliers - Kevin Love e Kyrie Irving aguardam à um ano pelo momento de redenção na Pós-Temporada</h1><p>Para Kevin Love, sua primeira pós temporada terminou na metade da série contra o Boston Celtics, durante o primeiro round, após distender o ombro e perder o restante dos jogos até o fim da temporada.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/265dfc13-a256-4211-9f6c-113d1dd0de0a.jpg"></article>]]></description>
-            <link>http://thegame.com.br/cleveland-cavaliers-kevin-love-e-kyrie-irving-aguardam-a-u/index.html</link>
-            <guid isPermaLink="false">4d63a400-4268-46a7-94c3-84da9820a638</guid>
-            <pubDate>Mon, 18 Apr 2016 15:15:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
