@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 01:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 02:13:14 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/882fbb8e-cfc4-4cd1-a90a-aa5f1a73d4d4.png">]]></description>
+            <link>http://thegame.com.br/com-uma-defesa-forte-e-um-ataque-mais-trabalhado-dessa-vez/index.html</link>
+            <guid isPermaLink="false">1cfa8969-197f-4dc3-b0e5-4a7af0b648b5</guid>
+            <pubDate>Sun, 24 Apr 2016 02:13:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Série empatada entre Raptors x Pacers]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be7b8bda-0917-4e1f-a129-1f7c45d174c7.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/cleveland-cavaliers-kevin-love-e-kyrie-irving-aguardam-a-u/index.html</link>
             <guid isPermaLink="false">4d63a400-4268-46a7-94c3-84da9820a638</guid>
             <pubDate>Mon, 18 Apr 2016 15:15:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kawhi Leonard é escolhido jogador de defesa da temporada]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ea28511-03c8-4fa2-8b9f-4e61c6124c24.jpg">]]></description>
-            <link>http://thegame.com.br/kawhi-leonard-e-escolhido-jogador-de-defesa-da-temporada/index.html</link>
-            <guid isPermaLink="false">10f61f8a-72e9-46f3-b26a-fe8b0451026f</guid>
-            <pubDate>Mon, 18 Apr 2016 14:57:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
