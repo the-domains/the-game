@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T10:42:27.735Z'
-dateModified: '2016-04-27T10:42:22.788Z'
+datePublished: '2016-04-27T10:45:15.144Z'
+dateModified: '2016-04-27T10:45:04.970Z'
 author: []
 title: 'Toronto Raptors: DeRosan e Lowry combinam 48 pontos e garantem a 3ª vitória da série'
 sourcePath: _posts/2016-04-27-toronto-raptors-derosan-e-lowry-combinam-48-pontos-e-garan.md
@@ -19,7 +18,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: toronto-raptors-derosan-e-lowry-combinam-48-pontos-e-garant/index.html
+_type: Article
 
 ---
 # Toronto Raptors: DeRosan e Lowry combinam 48 pontos e garantem a 3ª vitória da série
