@@ -16,8 +16,8 @@ keywords:
   - aqupas
   - 2015-16
 description: Norman Powell bate o martelo contra o Pacers
-datePublished: '2016-04-27T14:53:56.318Z'
-dateModified: '2016-04-27T14:53:53.888Z'
+datePublished: '2016-04-27T14:57:08.841Z'
+dateModified: '2016-04-27T14:57:06.868Z'
 author:
   - name: NBA
     url: 'https://www.youtube.com/user/NBA'
