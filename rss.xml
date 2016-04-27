@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 10:54:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 11:51:05 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Norman Powell Soars for the Slam Against Indiana!]]></title>
+            <description><![CDATA[<article><h1>Norman Powell Soars for the Slam Against Indiana!</h1><p>Norman Powell bate o martelo contra o Pacers</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3ed7e780836a40a5bd61020cf557cd082adbfac.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=6kBmWWkWqhY</link>
+            <guid isPermaLink="false">df0388d8-b68a-49d9-987d-13e6cceea280</guid>
+            <pubDate>Wed, 27 Apr 2016 11:50:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The New Era of Proud]]></title>
             <description><![CDATA[<article><h1>The New Era of Proud</h1><p>Inspirado no passado, nova identidade visual dos Kings vem chamando a atenção de todos</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a09252140e70f1484ca58f492a5d629157515cd.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/ganhou-na-minha-casa-eu-ganho-na-sua/index.html</link>
             <guid isPermaLink="false">95aae6ee-50e0-47f7-8402-00816acb71a4</guid>
             <pubDate>Fri, 22 Apr 2016 04:17:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nova surra do OKC, dessa vez em Dallas]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/805467eb-403e-4989-9afb-77810338d6c4.jpg">]]></description>
-            <link>http://thegame.com.br/nova-surra-do-okc-dessa-vez-em-dallas/index.html</link>
-            <guid isPermaLink="false">02213f6d-6fb4-46e0-8132-f3ca6654a91c</guid>
-            <pubDate>Fri, 22 Apr 2016 03:27:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
