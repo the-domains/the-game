@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T01:47:54.745Z'
-dateModified: '2016-04-27T01:47:50.528Z'
+datePublished: '2016-04-27T02:03:58.580Z'
+dateModified: '2016-04-27T02:03:28.683Z'
 author: []
 title: 'Toronto Raptors: DeRosan e Lowry combinam 48 pontos e garantem a 3ª vitória da série'
 sourcePath: _posts/2016-04-27-toronto-raptors-derosan-e-lowry-combinam-48-pontos-e-garan.md
@@ -25,7 +25,7 @@ _type: Blurb
 # Toronto Raptors: DeRosan e Lowry combinam 48 pontos e garantem a 3ª vitória da série
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c93368a6-7a59-49c0-a698-86e7a2ebb04d.gif)
 
-Um retorno impressionante aconteceu em Toronto durante o jogo 5 na série contra o Indiana Pacers, depois de estar perdendo por 16 pontos no primeiro quarto, o time se encontrou nos demais períodos levando a partida a ser decidia somente nos segundos finais.
+Um retorno impressionante aconteceu em Toronto durante o jogo 5 na série contra o Indiana Pacers, depois de estar perdendo por 16 pontos no primeiro quarto, o time se encontrou nos demais períodos levando a partida a ser decidia somente nos segundos finais. DeRosan fez a diferença contribuindo com 34 pontos e uma atuação fortíssima no ultimo período do jogo.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83b35036-5892-4bf2-920b-387e90c385e0.jpg)
 
 Mesmo contando com uma atuação de gala do ala Paul George que anotou 39 pontos, o time acabou cedendo à força de um time empurrado por sua torcida.
