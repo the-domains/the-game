@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T02:03:59.997Z'
-dateModified: '2016-04-27T02:03:28.683Z'
+datePublished: '2016-04-27T02:08:43.329Z'
+dateModified: '2016-04-27T02:08:29.175Z'
 author: []
 title: 'Toronto Raptors: DeRosan e Lowry combinam 48 pontos e garantem a 3ª vitória da série'
 sourcePath: _posts/2016-04-27-toronto-raptors-derosan-e-lowry-combinam-48-pontos-e-garan.md
@@ -31,4 +31,4 @@ Um retorno impressionante aconteceu em Toronto durante o jogo 5 na série contra
 Mesmo contando com uma atuação de gala do ala Paul George que anotou 39 pontos, o time acabou cedendo à força de um time empurrado por sua torcida.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2282823-0727-4dce-9e9e-734b172990b5.jpg)
 
-Vencendo a série por 3-2 agora os Raptors tem que segurar mais uma vitória nos próximos dois jogos, já os Pacers precisam é se recuperar aproveitando o fato de fazer o jogo seis em Indiana.
+Vencendo a série por 3-2 agora os Raptors tem que segurar mais uma vitória nos próximos dois jogos, já os Pacers precisam é se recuperar aproveitando o fato de fazer o jogo 6 em Indiana.
