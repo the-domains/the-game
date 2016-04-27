@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 10:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 10:54:15 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The New Era of Proud]]></title>
+            <description><![CDATA[<article><h1>The New Era of Proud</h1><p>Inspirado no passado, nova identidade visual dos Kings vem chamando a atenção de todos</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a09252140e70f1484ca58f492a5d629157515cd.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=FWw09xQSwOA</link>
+            <guid isPermaLink="false">44fd330f-c8b6-45c0-9594-af7136c44395</guid>
+            <pubDate>Wed, 27 Apr 2016 10:52:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Toronto Raptors: DeRosan e Lowry combinam 48 pontos e garantem a 3ª vitória da série]]></title>
             <description><![CDATA[<article><h1>Toronto Raptors: DeRosan e Lowry combinam 48 pontos e garantem a 3ª vitória da série</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c93368a6-7a59-49c0-a698-86e7a2ebb04d.gif"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/nova-surra-do-okc-dessa-vez-em-dallas/index.html</link>
             <guid isPermaLink="false">02213f6d-6fb4-46e0-8132-f3ca6654a91c</guid>
             <pubDate>Fri, 22 Apr 2016 03:27:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Resultados da rodada da NBA]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a97770de-ca2b-4851-ad64-bc3fd27d811e.jpg">]]></description>
-            <link>http://thegame.com.br/blazers-x-clippers/index.html</link>
-            <guid isPermaLink="false">9de4ffac-4115-4f6a-8f81-c55db3397732</guid>
-            <pubDate>Fri, 22 Apr 2016 02:22:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
