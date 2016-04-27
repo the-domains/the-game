@@ -6,7 +6,7 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T02:03:58.580Z'
+datePublished: '2016-04-27T02:03:59.997Z'
 dateModified: '2016-04-27T02:03:28.683Z'
 author: []
 title: 'Toronto Raptors: DeRosan e Lowry combinam 48 pontos e garantem a 3ª vitória da série'
