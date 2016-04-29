@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Atlanta: Garantido no próximo round'
-datePublished: '2016-04-29T15:11:44.508Z'
-dateModified: '2016-04-29T15:11:38.068Z'
+description: No ano passado eles terminaram na primeira posição do lado leste e viram seus sonhos escorrendo por entre os dedos ao se deparar com o Cleveland Cavaliers.
+datePublished: '2016-04-29T17:16:59.302Z'
+dateModified: '2016-04-29T17:16:57.171Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-29-atlanta-garantido-no-proximo-round.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,13 +18,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-29-atlanta-garantido-no-proximo-round.md
-published: true
 url: atlanta-garantido-no-proximo-round/index.html
 _type: Article
 
 ---
-Atlanta: Garantido no próximo round
+# Atlanta: Garantido no próximo round
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2151b21f-50d3-4c19-90c3-b896d5b893ad.jpg)
 
 No ano passado eles terminaram na primeira posição do lado leste e viram seus sonhos escorrendo por entre os dedos ao se deparar com o Cleveland Cavaliers.
