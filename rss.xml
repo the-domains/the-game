@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 15:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 15:13:22 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2151b21f-50d3-4c19-90c3-b896d5b893ad.jpg">]]></description>
+            <link>http://thegame.com.br/atlanta-garantido-no-proximo-round/index.html</link>
+            <guid isPermaLink="false">f2dbf8a7-5fef-445b-9c21-38605fc7ac01</guid>
+            <pubDate>Fri, 29 Apr 2016 15:11:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Norman Powell Soars for the Slam Against Indiana!]]></title>
             <description><![CDATA[<article><h1>Norman Powell Soars for the Slam Against Indiana!</h1><p>Norman Powell bate o martelo contra o Pacers</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3ed7e780836a40a5bd61020cf557cd082adbfac.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/com-emocao-ou-sem-emocao/index.html</link>
             <guid isPermaLink="false">2c846d3c-6c74-4b1e-b2c0-126881715fb2</guid>
             <pubDate>Fri, 22 Apr 2016 04:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ganhou na minha casa, eu ganho na sua! ]]></title>
-            <description><![CDATA[<p> Ganhou na minha casa, eu ganho na sua! </p>]]></description>
-            <link>http://thegame.com.br/ganhou-na-minha-casa-eu-ganho-na-sua/index.html</link>
-            <guid isPermaLink="false">95aae6ee-50e0-47f7-8402-00816acb71a4</guid>
-            <pubDate>Fri, 22 Apr 2016 04:17:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
