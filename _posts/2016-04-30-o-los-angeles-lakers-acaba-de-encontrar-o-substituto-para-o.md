@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: O Los Angeles Lakers acaba de encontrar o substituto para o ex-treinador Byron Scott.
-datePublished: '2016-04-30T13:00:08.964Z'
-dateModified: '2016-04-30T12:58:45.170Z'
+description: Depois de considerar uma longa lista de potenciais candidatos para o cargo de treinador o Lakers decidiu que o escolhido seria Luke Walton para essa nova fase do time.
+datePublished: '2016-04-30T13:03:08.792Z'
+dateModified: '2016-04-30T13:02:46.041Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-30-o-los-angeles-lakers-acaba-de-encontrar-o-substituto-para-o.md
@@ -22,10 +22,9 @@ url: o-los-angeles-lakers-acaba-de-encontrar-o-substituto-para-o/index.html
 _type: Article
 
 ---
-O Los Angeles Lakers acaba de encontrar o substituto para o ex-treinador Byron Scott.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d66fcfa1-cbd1-4612-8ef1-11599b079126.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3fdc7ce-344d-49ff-af88-7f3ea3304165.jpg)
 
-Depois de considerar uma longa lista de potenciais candidatos para o cargo de treinador o Lakers decidiu que o escolhido seria Luke Walton para essa nova fase do time.
+Depois de considerar uma longa lista de potenciais candidatos para o cargo de treinador o Lakers decidiu que o escolhido seria Luke Walton para essa nova fase do time.  
 
 De acordo com o Relatório do Bleacher Kevin Ding, Walton concordou em se tornar o novo treinador dos Lakers:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa2ad8c4-d733-44a7-8403-ce936f9f1ca0.jpg)
