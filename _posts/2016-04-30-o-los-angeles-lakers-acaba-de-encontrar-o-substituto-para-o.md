@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: O Los Angeles Lakers acaba de encontrar o substituto para o ex-treinador Byron Scott.
-datePublished: '2016-04-30T12:55:16.936Z'
-dateModified: '2016-04-30T12:55:11.879Z'
+datePublished: '2016-04-30T13:00:08.964Z'
+dateModified: '2016-04-30T12:58:45.170Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-30-o-los-angeles-lakers-acaba-de-encontrar-o-substituto-para-o.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-30-o-los-angeles-lakers-acaba-de-encontrar-o-substituto-para-o.md
-published: true
 url: o-los-angeles-lakers-acaba-de-encontrar-o-substituto-para-o/index.html
 _type: Article
 
