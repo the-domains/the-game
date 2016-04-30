@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 17:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 12:56:03 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d66fcfa1-cbd1-4612-8ef1-11599b079126.jpg">]]></description>
+            <link>http://thegame.com.br/o-los-angeles-lakers-acaba-de-encontrar-o-substituto-para-o/index.html</link>
+            <guid isPermaLink="false">ab1484b3-57d2-4e95-8e47-4be10c0c519c</guid>
+            <pubDate>Sat, 30 Apr 2016 12:55:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2151b21f-50d3-4c19-90c3-b896d5b893ad.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/serie-empatada-entre-raptors-x-pacers/index.html</link>
             <guid isPermaLink="false">246dfde0-7280-4872-ab1f-f43e785db3c7</guid>
             <pubDate>Sun, 24 Apr 2016 01:36:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Com emoção ou sem emoção?]]></title>
-            <description><![CDATA[<p>Com o jogo decidido nos segundo finais, o Houston conseguiu diminuir a vantagem do Golden State na séria para 2 x 1. </p>]]></description>
-            <link>http://thegame.com.br/com-emocao-ou-sem-emocao/index.html</link>
-            <guid isPermaLink="false">2c846d3c-6c74-4b1e-b2c0-126881715fb2</guid>
-            <pubDate>Fri, 22 Apr 2016 04:57:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
