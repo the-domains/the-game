@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 02:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 02:34:11 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Portland: O que os Blazers tem a perder enfrentando o Golden State Warriors?]]></title>
+            <description><![CDATA[<article><h1>Portland: O que os Blazers tem a perder enfrentando o Golden State Warriors?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b8e356c-a74a-4bb5-a8b4-d255d6ac5553.jpg"></article>]]></description>
+            <link>http://thegame.com.br/portland-o-que-os-blazers-tem-a-perder-enfrentando-o-golden/index.html</link>
+            <guid isPermaLink="false">8e75a42f-add7-487c-bd3d-85f2b13d5167</guid>
+            <pubDate>Sun, 01 May 2016 02:33:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Portland: Aproveitado da fragilidade dos Clippers, Blazers aproveitam para avançar nos Playoffs]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc90cd54-4bd9-4a83-99b2-132c9b72036d.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/com-o-jogo-decidido-nos-momentos-finais-o-time-do-portland/index.html</link>
             <guid isPermaLink="false">c6171b11-3058-4f5d-903f-d6a55764f0fc</guid>
             <pubDate>Sun, 24 Apr 2016 05:57:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UFC em Dallas? Quase isso.]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aef8cb73-4935-4618-8e2e-a35ad8466b51.jpg">]]></description>
-            <link>http://thegame.com.br/ufc-em-dallas-quase-isso/index.html</link>
-            <guid isPermaLink="false">3dda130e-ee7d-4dea-9724-1ea1bb242ae7</guid>
-            <pubDate>Sun, 24 Apr 2016 03:29:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
