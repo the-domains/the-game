@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-01T02:53:37.400Z'
-dateModified: '2016-05-01T02:53:33.314Z'
+datePublished: '2016-05-01T02:58:46.505Z'
+dateModified: '2016-05-01T02:58:43.099Z'
 title: 'San Antonio: Spurs não toma conhecimento do adversário e atropela OKC.'
 author: []
 sourcePath: _posts/2016-05-01-san-antonio-spurs-nao-toma-conhecimento-do-adversario-e-atr.md
@@ -31,4 +31,4 @@ Na noite do último sábado, durante o primeiro jogo do segundo round dos Playof
 
 O Thunders que tem a tradição de sofrer apagões durante os jogos disputados nos Playoffs, seguiu a regra e já perdia por mais de 30 pontos ainda no terceiro quarto, faltando dois minutos para o fim da partida a vantagem era de 37 pontos.
 
-Vamos ver no jogo 2 como eles vão se portar, mas ao encarar os jogadores dirigidos pelo técnico Gregg Popovich, eles terão que no minimo fazer mais do que eles tem feito até o momento.
+Vamos ver no jogo 2 como eles vão se portar, mas ao encarar os jogadores dirigidos pelo técnico Gregg Popovich, eles terão que no mínimo fazer mais do que eles tem feito até o momento.
