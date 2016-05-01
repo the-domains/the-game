@@ -1,15 +1,16 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-01T01:29:06.684Z'
-dateModified: '2016-05-01T01:29:03.822Z'
+datePublished: '2016-05-01T02:53:04.363Z'
+dateModified: '2016-05-01T02:34:45.035Z'
 title: 'Indiana: Se mantém vivo e promete dar trabalho no jogo 7'
 author: []
+sourcePath: _posts/2016-05-01-indiana-se-mantem-vivo-e-promete-dar-trabalho-no-jogo-7.md
+published: true
 authors: []
 publisher:
   name: null
@@ -17,9 +18,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-01-indiana-se-mantem-vivo-e-promete-dar-trabalho-no-jogo-7.md
-published: true
-_type: Blurb
+url: indiana-se-mantem-vivo-e-promete-dar-trabalho-no-jogo-7/index.html
+_type: Article
 
 ---
 # Indiana: Se mantém vivo e promete dar trabalho no jogo 7
