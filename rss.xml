@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 01:46:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 02:16:38 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Portland: Aproveitado da fragilidade dos Clippers, Blazers aproveitam para avançar nos Playoffs]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc90cd54-4bd9-4a83-99b2-132c9b72036d.jpg">]]></description>
+            <link>http://thegame.com.br/portland-aproveitado-da-fragilidade-dos-clippers-blazers-a/index.html</link>
+            <guid isPermaLink="false">f6d32aa5-0cf7-4ce3-a899-4c578773c89f</guid>
+            <pubDate>Sun, 01 May 2016 02:16:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Miami: Wade força jogo 7 contra o Hornets com uma grande performance no ultimo quarto do jogo]]></title>
             <description><![CDATA[<article><h1>Miami: Wade força jogo 7 contra o Hornets com uma grande performance no ultimo quarto do jogo</h1><p>Se existe um "se" ainda há esperança. Dwyane Wade provou essa senteça</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a0c8cd6-0fed-41c2-a33a-ae00cc2a4bce.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/ufc-em-dallas-quase-isso/index.html</link>
             <guid isPermaLink="false">3dda130e-ee7d-4dea-9724-1ea1bb242ae7</guid>
             <pubDate>Sun, 24 Apr 2016 03:29:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Buzz em Charlotte!!]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/882fbb8e-cfc4-4cd1-a90a-aa5f1a73d4d4.png">]]></description>
-            <link>http://thegame.com.br/com-uma-defesa-forte-e-um-ataque-mais-trabalhado-dessa-vez/index.html</link>
-            <guid isPermaLink="false">1cfa8969-197f-4dc3-b0e5-4a7af0b648b5</guid>
-            <pubDate>Sun, 24 Apr 2016 02:18:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
