@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 02:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 02:49:10 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[San Antonio: Spurs não toma conhecimento do adversário e atropela OKC.]]></title>
+            <description><![CDATA[<article><h1>San Antonio: Spurs não toma conhecimento do adversário e atropela OKC.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f782ad90-eee6-4e14-9f04-5d347e5879d9.jpg"></article>]]></description>
+            <link>http://thegame.com.br/san-antonio-spurs-nao-toma-conhecimento-do-adversario-e-atr/index.html</link>
+            <guid isPermaLink="false">6f682aca-a461-4af2-9372-1164720108ba</guid>
+            <pubDate>Sun, 01 May 2016 02:48:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Portland: O que os Blazers tem a perder enfrentando o Golden State Warriors?]]></title>
             <description><![CDATA[<article><h1>Portland: O que os Blazers tem a perder enfrentando o Golden State Warriors?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b8e356c-a74a-4bb5-a8b4-d255d6ac5553.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/chris-paul-fratura-a-mao-e-clippers-perde-mais-uma/index.html</link>
             <guid isPermaLink="false">f5271c74-f29b-49aa-a1e7-1fffcc67058c</guid>
             <pubDate>Tue, 26 Apr 2016 15:00:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dupla do Portland dá show e time vence]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3bd023a-3544-4223-b74d-456d7366fc7b.jpg">]]></description>
-            <link>http://thegame.com.br/com-o-jogo-decidido-nos-momentos-finais-o-time-do-portland/index.html</link>
-            <guid isPermaLink="false">c6171b11-3058-4f5d-903f-d6a55764f0fc</guid>
-            <pubDate>Sun, 24 Apr 2016 05:57:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
