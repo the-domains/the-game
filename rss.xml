@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 13:04:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 01:46:41 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Miami: Wade força jogo 7 contra o Hornets com uma grande performance no ultimo quarto do jogo]]></title>
+            <description><![CDATA[<article><h1>Miami: Wade força jogo 7 contra o Hornets com uma grande performance no ultimo quarto do jogo</h1><p>Se existe um "se" ainda há esperança. Dwyane Wade provou essa senteça</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a0c8cd6-0fed-41c2-a33a-ae00cc2a4bce.jpg"></article>]]></description>
+            <link>http://thegame.com.br/miami-wade-forca-jogo-7-contra-o-hornets-com-uma-grande-per/index.html</link>
+            <guid isPermaLink="false">836a3c4f-cdea-4200-ab33-45aaa8f0e996</guid>
+            <pubDate>Sun, 01 May 2016 01:46:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[O Los Angeles Lakers acaba de encontrar o substituto para o ex-treinador Byron Scott.]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa2ad8c4-d733-44a7-8403-ce936f9f1ca0.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/com-uma-defesa-forte-e-um-ataque-mais-trabalhado-dessa-vez/index.html</link>
             <guid isPermaLink="false">1cfa8969-197f-4dc3-b0e5-4a7af0b648b5</guid>
             <pubDate>Sun, 24 Apr 2016 02:18:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Série empatada entre Raptors x Pacers]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be7b8bda-0917-4e1f-a129-1f7c45d174c7.jpg">]]></description>
-            <link>http://thegame.com.br/serie-empatada-entre-raptors-x-pacers/index.html</link>
-            <guid isPermaLink="false">246dfde0-7280-4872-ab1f-f43e785db3c7</guid>
-            <pubDate>Sun, 24 Apr 2016 01:36:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
