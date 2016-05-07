@@ -1,15 +1,17 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'O Toronto Raptors derrotaram os visitantes do Miami Heat por 96-92, no jogo 2 da semifinais de Conferência do Leste para empatar a série em 1-1 no Air Canada Center na quinta-feira.'
-datePublished: '2016-05-07T12:03:28.860Z'
-dateModified: '2016-05-07T12:03:03.029Z'
+datePublished: '2016-05-07T12:12:04.629Z'
+dateModified: '2016-05-07T12:11:53.195Z'
 title: 'Toronto: Raptors afirma estar de volta após vencer o Heat na prorrogação '
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-07-toronto-raptors-afirma-estar-de-volta-apos-vencer-o-heat-na.md
 authors: []
 publisher:
   name: null
@@ -17,11 +19,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-07-toronto-raptors-afirma-estar-de-volta-apos-vencer-o-heat-na.md
-_type: Blurb
+url: toronto-raptors-afirma-estar-de-volta-apos-vencer-o-heat-na/index.html
+_type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/738f4631-c098-43cb-a3db-b9cabf6379f5.jpg)
+# Toronto: Raptors afirma estar de volta após vencer o Heat na prorrogação ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/738f4631-c098-43cb-a3db-b9cabf6379f5.jpg)
 
 O Toronto Raptors derrotaram os visitantes do Miami Heat por 96-92, no jogo 2 da semifinais de Conferência do Leste para empatar a série em 1-1 no Air Canada Center na quinta-feira.
 
