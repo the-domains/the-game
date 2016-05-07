@@ -5,10 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Jogando em Oklahoma Kawhi Leonard teve 31 pontos e 11 rebotes, e o San Antonio Spurs bateram o Oklahoma City Thunder por 100-96 na sexta a noite e agora tem a vantagem na série que está em 2-1.'
-datePublished: '2016-05-07T12:03:28.868Z'
-dateModified: '2016-05-07T11:46:39.535Z'
+datePublished: '2016-05-07T12:14:23.384Z'
+dateModified: '2016-05-07T12:14:17.959Z'
 title: 'San Antonio: Mostrando toda sua força, Spurs vencem fora de casa e agora tem a vantagem na série 2-1'
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-07-san-antonio-mostrando-toda-sua-forca-spurs-vencem-fora-de.md
 authors: []
 publisher:
   name: null
@@ -16,11 +19,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-07-san-antonio-mostrando-toda-sua-forca-spurs-vencem-fora-de.md
 url: san-antonio-mostrando-toda-sua-forca-spurs-vencem-fora-de/index.html
 _type: Article
 
 ---
+# San Antonio: Mostrando toda sua força, Spurs vencem fora de casa e agora tem a vantagem na série 2-1
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c96cdc2d-4d71-4e14-a21a-9d4e54467abd.jpg)
 
 Jogando em Oklahoma Kawhi Leonard teve 31 pontos e 11 rebotes, e o San Antonio Spurs bateram o Oklahoma City Thunder por 100-96 na sexta a noite e agora tem a vantagem na série que está em 2-1\.
