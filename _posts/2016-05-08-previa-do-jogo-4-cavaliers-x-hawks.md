@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: A melhor parte da NBA além das incríveis jogadas são as estatísticas. Tudo pode ser mensurado através dos números que são registrados desde o início da Liga.
-datePublished: '2016-05-08T19:29:43.745Z'
-dateModified: '2016-05-08T19:29:27.607Z'
+datePublished: '2016-05-08T19:35:49.688Z'
+dateModified: '2016-05-08T19:35:43.421Z'
 title: 'Prévia do jogo 4: Cavaliers x Hawks'
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-08-previa-do-jogo-4-cavaliers-x-hawks.md
 authors: []
 publisher:
   name: null
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-08-previa-do-jogo-4-cavaliers-x-hawks.md
 url: previa-do-jogo-4-cavaliers-x-hawks/index.html
 _type: Article
 
