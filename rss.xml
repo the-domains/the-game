@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 12:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 15:09:58 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Experiência de Wade faz a diferença e Heat empata série em 2x2]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/82708262-f9b3-4876-ac53-8c78712e2de3.png">]]></description>
+            <link>http://thegame.com.br/experiencia-de-wade-faz-a-diferenca-e-heat-empata-serie-em-2/index.html</link>
+            <guid isPermaLink="false">b6ae3fea-d6ea-40ae-bf0d-f07a3fa82c6f</guid>
+            <pubDate>Tue, 10 May 2016 15:09:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Curry volta, lidera Warriors e time abre 3x1]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d289a99-67b5-48dc-8345-c9a19ad280be.png">]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/toronto-raptors-afirma-estar-de-volta-apos-vencer-o-heat-na/index.html</link>
             <guid isPermaLink="false">ea3a3afd-32c6-4f47-a9e9-d7464d4de874</guid>
             <pubDate>Sat, 07 May 2016 12:12:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[San Antonio: Spurs não toma conhecimento do adversário e atropela OKC.]]></title>
-            <description><![CDATA[<article><h1>San Antonio: Spurs não toma conhecimento do adversário e atropela OKC.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f782ad90-eee6-4e14-9f04-5d347e5879d9.jpg"></article>]]></description>
-            <link>http://thegame.com.br/san-antonio-spurs-nao-toma-conhecimento-do-adversario-e-atr/index.html</link>
-            <guid isPermaLink="false">6f682aca-a461-4af2-9372-1164720108ba</guid>
-            <pubDate>Sun, 01 May 2016 02:58:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
