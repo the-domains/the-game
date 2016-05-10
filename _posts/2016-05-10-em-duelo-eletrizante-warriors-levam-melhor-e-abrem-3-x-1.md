@@ -5,11 +5,12 @@ inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=iZzMM6MZuog'
 inLanguage: null
 keywords: []
-description: 'Ele estava de volta, Stephen Curry marcou 40pts diante do Portland, mas se engana quem acha que ele fez chover bolas de 3 durante o jogo.'
-datePublished: '2016-05-10T11:44:36.587Z'
-dateModified: '2016-05-10T11:41:47.589Z'
+description: 'Ele está de volta, Stephen Curry marcou 40pts diante do Portland, mas se engana quem acha que ele fez chover bolas de 3 durante o jogo.'
+datePublished: '2016-05-10T11:53:45.904Z'
+dateModified: '2016-05-10T11:53:26.634Z'
 author: []
 title: ''
+sourcePath: _posts/2016-05-10-em-duelo-eletrizante-warriors-levam-melhor-e-abrem-3-x-1.md
 authors: []
 publisher:
   name: youtube.com
@@ -17,7 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-10-em-duelo-eletrizante-warriors-levam-melhor-e-abrem-3-x-1.md
 _context: 'http://schema.org'
 _type: Article
 
