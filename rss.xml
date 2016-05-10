@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 11:32:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 11:44:41 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Em duelo eletrizante, Warriors levam melhor e abrem 3 x 1]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4de73bee-4162-4082-8d3f-dff54f6ecc9b.png">]]></description>
+            <link>https://www.youtube.com/watch?v=iZzMM6MZuog</link>
+            <guid isPermaLink="false">ec11a7a5-cf2f-4470-957d-37b79c983d0a</guid>
+            <pubDate>Tue, 10 May 2016 11:44:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MVP: Stephen Curry será eleito como o jogador mais valioso da NBA ]]></title>
             <description><![CDATA[<article><h1>MVP: Stephen Curry será eleito como o jogador mais valioso da NBA </h1><p>Steph manteve a liderança em pontuação, a melhor na carreira, com médias de 30.1 por partida (Detalhe: jogando somente 34.2 minutos por jogo). Como se não bastasse ele ainda entrou para um grupo seleto que mantém a média de 50/40/90 (convertendo 50.4% dos arremessos, 45.4% da linha dos três pontos e 90.8% de aproveitamento do lance livre), na verdade o primeiro campeão a ter essa média impressionante. Com esses números ele ainda conseguiu sair na frente no critério eficiência (PER - Player Efficiency Rating), além de ter sido o cestinha da temporada, ele ficou em 10º lugar em assistências por jogo (6.7).</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5418cee6-4cfd-4fa5-b803-2fc0cd240f20.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/san-antonio-spurs-nao-toma-conhecimento-do-adversario-e-atr/index.html</link>
             <guid isPermaLink="false">6f682aca-a461-4af2-9372-1164720108ba</guid>
             <pubDate>Sun, 01 May 2016 02:58:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Portland: O que os Blazers tem a perder enfrentando o Golden State Warriors?]]></title>
-            <description><![CDATA[<article><h1>Portland: O que os Blazers tem a perder enfrentando o Golden State Warriors?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b8e356c-a74a-4bb5-a8b4-d255d6ac5553.jpg"></article>]]></description>
-            <link>http://thegame.com.br/portland-o-que-os-blazers-tem-a-perder-enfrentando-o-golden/index.html</link>
-            <guid isPermaLink="false">8e75a42f-add7-487c-bd3d-85f2b13d5167</guid>
-            <pubDate>Sun, 01 May 2016 02:58:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
