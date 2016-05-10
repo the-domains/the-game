@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Steph manteve a liderança em pontuação, a melhor na carreira, com médias de 30.1 por partida (Detalhe: jogando somente 34.2 minutos por jogo). Como se não bastasse ele ainda entrou para um grupo seleto que mantém a média de 50/40/90 (convertendo 50.4% dos arremessos, 45.4% da linha dos três pontos e 90.8% de aproveitamento do lance livre), na verdade o primeiro campeão a ter essa média impressionante. Com esses números ele ainda conseguiu sair na frente no critério eficiência (PER - Player Efficiency Rating), além de ter sido o cestinha da temporada, ele ficou em 10º lugar em assistências por jogo (6.7).'
-datePublished: '2016-05-10T11:20:10.343Z'
-dateModified: '2016-05-10T11:19:49.246Z'
+datePublished: '2016-05-10T11:32:22.027Z'
+dateModified: '2016-05-10T11:32:19.204Z'
 author:
   - name: ''
     url: ''
