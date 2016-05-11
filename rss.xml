@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 15:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 11:21:12 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stephen Curry's Ultimate Career Mixtape]]></title>
+            <description><![CDATA[<article><h1>Stephen Curry's Ultimate Career Mixtape</h1><p>Uma carreira cheia de crossovers malucos, arremessos impossíveis e jogadas absurdas!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12e640992281335d8ce67ab1f437d185a4e771e0.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=gb0wmBUB4cg</link>
+            <guid isPermaLink="false">66b89ba3-c587-4463-947b-9675d991b785</guid>
+            <pubDate>Wed, 11 May 2016 11:20:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Experiência de Wade faz a diferença e Heat empata série em 2x2]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/82708262-f9b3-4876-ac53-8c78712e2de3.png">]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/cleveland-apos-vencer-mais-uma-cavs-busca-fechar-a-serie-n/index.html</link>
             <guid isPermaLink="false">fa25ffc2-4a79-40f7-aad6-78358afceccc</guid>
             <pubDate>Sat, 07 May 2016 12:13:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Toronto: Raptors afirma estar de volta após vencer o Heat na prorrogação ]]></title>
-            <description><![CDATA[<article><h1>Toronto: Raptors afirma estar de volta após vencer o Heat na prorrogação </h1><p>O Toronto Raptors derrotaram os visitantes do Miami Heat por 96-92, no jogo 2 da semifinais de Conferência do Leste para empatar a série em 1-1 no Air Canada Center na quinta-feira.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/738f4631-c098-43cb-a3db-b9cabf6379f5.jpg"></article>]]></description>
-            <link>http://thegame.com.br/toronto-raptors-afirma-estar-de-volta-apos-vencer-o-heat-na/index.html</link>
-            <guid isPermaLink="false">ea3a3afd-32c6-4f47-a9e9-d7464d4de874</guid>
-            <pubDate>Sat, 07 May 2016 12:12:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
