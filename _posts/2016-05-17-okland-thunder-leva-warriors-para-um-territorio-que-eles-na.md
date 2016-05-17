@@ -1,15 +1,15 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Russel Westbrook surgiu com um impressionante terceiro quarto, marcando 19 de seus 27 pontos convertidos na partida, foi o fator decisivo para o resultado. Depois de ficar atras no placar por 13 pontos (maior vantagem aberta pelo GSW), o Thunder não deixou de acreditar na partida e foram reduzindo a vantagem ponto a ponto até encostarem no placar. '
-datePublished: '2016-05-17T12:36:38.277Z'
-dateModified: '2016-05-17T12:36:08.819Z'
+datePublished: '2016-05-17T13:16:19.707Z'
+dateModified: '2016-05-17T13:16:16.576Z'
 author: []
 title: 'Okland: Thunder leva Warriors para um território que eles não costumam frequentar, com vitória no 1º Jogo das Finais'
+sourcePath: _posts/2016-05-17-okland-thunder-leva-warriors-para-um-territorio-que-eles-na.md
 authors: []
 publisher:
   name: null
@@ -17,8 +17,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-17-okland-thunder-leva-warriors-para-um-territorio-que-eles-na.md
-_type: Blurb
+url: okland-thunder-leva-warriors-para-um-territorio-que-eles-na/index.html
+_type: Article
 
 ---
 # Okland: Thunder leva Warriors para um território que eles não costumam frequentar, com vitória no 1º Jogo das Finais
