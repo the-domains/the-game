@@ -1,23 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-20T12:05:49.588Z'
-dateModified: '2016-05-20T12:05:47.672Z'
+description: 'Assim como o Golden State tem fez história durante a temporada regular, os Cavaliers também estão fazendo história na pós temporada.'
+datePublished: '2016-05-20T13:00:22.658Z'
+dateModified: '2016-05-20T13:00:03.909Z'
 title: 'Ohio: Cavs com mais uma vitória expressiva, agora já são 10 vitórias seguidas'
 author: []
-sourcePath: _posts/2016-05-20-ohio-cavs-com-mais-uma-vitoria-expressiva-agora-ja-sao-10.md
 authors: []
 publisher: null
 starred: false
-_type: Blurb
+sourcePath: _posts/2016-05-20-ohio-cavs-com-mais-uma-vitoria-expressiva-agora-ja-sao-10.md
+url: ohio-cavs-com-mais-uma-vitoria-expressiva-agora-ja-sao-10/index.html
+_type: Article
 
 ---
 # Ohio: Cavs com mais uma vitória expressiva, agora já são 10 vitórias seguidas
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3ca3892-72a4-4011-986f-4d3f836f7ff8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb006b6d-ca69-43b4-b502-e3a0b016067a.jpg)
 
 Assim como o Golden State tem fez história durante a temporada regular, os Cavaliers também estão fazendo história na pós temporada.
 
@@ -27,11 +28,11 @@ LeBron James com um triple-double levou o Cleveland ao patamar de 10 vitórias e
 
 James marcou 23 pontos, 11 rebotes e 11 assistências e tornou o Cavs o quarto time da história a ganhar 10 jogos seguidos na pós temporada, eles se juntam à:
 
-Los Angeles Lakers (1989 - 2001)
+* Los Angeles Lakers (1989 - 2001)
 
-San Antonio Spurs (2012)
+* San Antonio Spurs (2012)
 
-Cleveland Cavaliers (2016)
+* Cleveland Cavaliers (2016)
 
 Jogando em outro patamar, eles agora estão à duas vitórias das Finais da NBA e tentam terminar o jejum de 52 anos sem títulos na cidade de Cleveland.
 
