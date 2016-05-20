@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-20T11:37:12.912Z'
-dateModified: '2016-05-20T11:36:56.098Z'
+datePublished: '2016-05-20T12:05:49.588Z'
+dateModified: '2016-05-20T12:05:47.672Z'
 title: 'Ohio: Cavs com mais uma vitória expressiva, agora já são 10 vitórias seguidas'
 author: []
+sourcePath: _posts/2016-05-20-ohio-cavs-com-mais-uma-vitoria-expressiva-agora-ja-sao-10.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-20-ohio-cavs-com-mais-uma-vitoria-expressiva-agora-ja-sao-10.md
 _type: Blurb
 
 ---
@@ -30,6 +30,8 @@ James marcou 23 pontos, 11 rebotes e 11 assistências e tornou o Cavs o quarto t
 Los Angeles Lakers (1989 - 2001)
 
 San Antonio Spurs (2012)
+
+Cleveland Cavaliers (2016)
 
 Jogando em outro patamar, eles agora estão à duas vitórias das Finais da NBA e tentam terminar o jejum de 52 anos sem títulos na cidade de Cleveland.
 
