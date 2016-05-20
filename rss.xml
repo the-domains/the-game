@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 15:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 13:00:27 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ohio: Cavs com mais uma vitória expressiva, agora já são 10 vitórias seguidas]]></title>
+            <description><![CDATA[<article><h1>Ohio: Cavs com mais uma vitória expressiva, agora já são 10 vitórias seguidas</h1><p>Assim como o Golden State tem fez história durante a temporada regular, os Cavaliers também estão fazendo história na pós temporada.</p></article>]]></description>
+            <link>http://thegame.com.br/ohio-cavs-com-mais-uma-vitoria-expressiva-agora-ja-sao-10/index.html</link>
+            <guid isPermaLink="false">7f98f69f-a826-416a-913f-eef44e1161dc</guid>
+            <pubDate>Fri, 20 May 2016 13:00:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Warriors recuperam o ímpeto do time canalizando um aspecto bem familiar, intimidação dominante.]]></title>
             <description><![CDATA[<article><h1>Warriors recuperam o ímpeto do time canalizando um aspecto bem familiar, intimidação dominante.</h1><p>Em um confronto épico marcando pela incompreensiva força de ataque, os MVPs de ambos os lados estavam defendendo com afinco suas posições, e o Golden State Warriors fez o inimaginável nessa quarta ganhando o Jogo 2 sobre o Oklahoma City Thunder por 118-91</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a7f0402-9221-4345-b64c-894125b1a43f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/previa-do-jogo-4-cavaliers-x-hawks/index.html</link>
             <guid isPermaLink="false">dc42342e-86b7-4bcc-a672-17b76ecdf351</guid>
             <pubDate>Sun, 08 May 2016 19:35:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Portland: Lillard faz sua maior pontuação nos Playoffs]]></title>
-            <description><![CDATA[<article><h1>Portland: Lillard faz sua maior pontuação nos Playoffs</h1><p>Os Warriors continuam liderando a série, mesmo depois da derrota por 120-108 para o Portland Trail Blazers na noite de sábado.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/48345169-b89a-4287-a01b-67fd36f25259.jpg"></article>]]></description>
-            <link>http://thegame.com.br/portland-lillard-faz-sua-maior-pontuacao-nos-playoffs/index.html</link>
-            <guid isPermaLink="false">4b7c2482-5bf7-41d2-8668-82833065459e</guid>
-            <pubDate>Sun, 08 May 2016 19:29:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
