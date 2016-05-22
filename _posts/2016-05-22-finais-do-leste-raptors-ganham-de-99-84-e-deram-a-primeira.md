@@ -1,22 +1,22 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'O Toronto Raptors derrotou o Cleveland Cavaliers por 99-84 no sábado (21) no Air Canadá Centre em Toronto, o Cavs ainda lidera as Finais do Leste por 2-1.'
-datePublished: '2016-05-22T14:10:46.277Z'
-dateModified: '2016-05-22T14:10:08.570Z'
+datePublished: '2016-05-22T14:14:52.337Z'
+dateModified: '2016-05-22T14:14:37.858Z'
 title: 'Finais do Leste: Raptors ganham de 99-84 e deram a primeira derrota para o Cavs'
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-22-finais-do-leste-raptors-ganham-de-99-84-e-deram-a-primeira.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-22-finais-do-leste-raptors-ganham-de-99-84-e-deram-a-primeira.md
-_type: Blurb
+url: finais-do-leste-raptors-ganham-de-99-84-e-deram-a-primeira/index.html
+_type: Article
 
 ---
 # Finais do Leste: Raptors ganham de 99-84 e deram a primeira derrota para o Cavs
