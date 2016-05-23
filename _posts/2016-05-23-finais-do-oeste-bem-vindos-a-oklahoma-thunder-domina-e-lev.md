@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-23T11:18:16.545Z'
-dateModified: '2016-05-23T11:18:12.189Z'
+datePublished: '2016-05-23T11:52:36.779Z'
+dateModified: '2016-05-23T11:52:30.478Z'
 title: 'Finais do Oeste: Bem vindos à Oklahoma! Thunder domina e leva Jogo 3 por 133 - 105'
 author: []
 sourcePath: _posts/2016-05-23-finais-do-oeste-bem-vindos-a-oklahoma-thunder-domina-e-lev.md
