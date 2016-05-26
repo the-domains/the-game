@@ -13,12 +13,14 @@ color:
 opengraph:
   image: null
   type: null
-  appId: null
+  appId: 'https://www.facebook.com/TheGameEsportes/'
 layout_spectrum: 0.32491
 analytics:
   google: UA-74925626-1
   facebook: '997355473646538'
   twitter: null
+author:
+  email: filipe@thegame.com.br
 name: The Game
 cta:
   domain: null
