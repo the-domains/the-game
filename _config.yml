@@ -20,11 +20,11 @@ analytics:
   facebook: '997355473646538'
   twitter: null
 author:
-  email: filipe@thegame.com.br
+  email: falecom@thegame.com.br
 name: The Game
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/5341fecf-62dd-42e9-9bf8-0400d9f7711b.png'
 purpose: []
