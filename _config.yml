@@ -1,19 +1,4 @@
-name: The Game
-favicon: null
-layout_spectrum: 0.32491
 typography_spectrum: 0.40135
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-74925626-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#00154e'
@@ -25,4 +10,19 @@ color:
   lightness: 0.6330204410478473
   saturation: 0.25
   rhythmicContrast: 0.4037932406645268
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.32491
+analytics:
+  google: UA-74925626-1
+  facebook: '997355473646538'
+  twitter: null
+name: The Game
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
