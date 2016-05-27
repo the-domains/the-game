@@ -15,8 +15,8 @@ keywords:
   - 2015-16
   - duration
 description: 'Stephen Curry marcou 31 pontos na partida. Em alguns momentos erguia os braços para incitar a torcida do Golden State que já estava barulhenta e os defensores do título protelaram a eliminação com a vitória por 120-111 sobre o Oklahoma City Thunder na quinta-feira a noite, pelo 5º Jogo das Finais de Conferência do Lado Oeste.'
-datePublished: '2016-05-27T13:00:53.604Z'
-dateModified: '2016-05-27T13:00:47.680Z'
+datePublished: '2016-05-27T13:09:54.672Z'
+dateModified: '2016-05-27T13:09:52.285Z'
 author:
   - name: NBA
     url: 'https://www.youtube.com/user/NBA'
