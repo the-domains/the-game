@@ -1,19 +1,20 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-26T22:08:03.459Z'
-dateModified: '2016-05-26T22:07:22.651Z'
+datePublished: '2016-05-27T12:22:56.732Z'
+dateModified: '2016-05-27T12:22:54.279Z'
 title: 'Finais do Oeste: Thunders vencem Warriors e tomam a liderança da série'
 author: []
+sourcePath: _posts/2016-05-26-finais-do-oeste-thunders-vencem-warriors-e-tomam-a-lideranc.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-26-finais-do-oeste-thunders-vencem-warriors-e-tomam-a-lideranc.md
-_type: Blurb
+url: finais-do-oeste-thunders-vencem-warriors-e-tomam-a-lideranc/index.html
+_type: Article
 
 ---
 # Finais do Oeste: Thunders vencem Warriors e tomam a liderança da série
