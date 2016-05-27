@@ -1,22 +1,22 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-27T12:14:51.919Z'
-dateModified: '2016-05-27T12:14:48.068Z'
+datePublished: '2016-05-27T12:19:30.831Z'
+dateModified: '2016-05-27T12:19:26.187Z'
 author:
-  - name: Por Filipe Santos
-    url: www.twitter.com/fisa67
+  - name: ''
+    url: ''
 title: 'Finais do Oeste: Alimentado pela energia da torcida GSW ganha e força Jogo 6'
 sourcePath: _posts/2016-05-27-finais-do-oeste-alimentado-pela-energia-da-torcida-gsw-ganh.md
 authors: []
 publisher: null
 starred: false
-_type: Blurb
+url: finais-do-oeste-alimentado-pela-energia-da-torcida-gsw-ganh/index.html
+_type: Article
 
 ---
 # Finais do Oeste: Alimentado pela energia da torcida GSW ganha e força Jogo 6
