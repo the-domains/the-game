@@ -15,8 +15,8 @@ keywords:
   - 2015-16
   - duration
 description: 'Stephen Curry marcou 31 pontos na partida. Em alguns momentos erguia os braços para incitar a torcida do Golden State que já estava barulhenta e os defensores do título protelaram a eliminação com a vitória por 120-111 sobre o Oklahoma City Thunder na quinta-feira a noite, pelo 5º Jogo das Finais de Conferência do Lado Oeste.'
-datePublished: '2016-05-27T12:54:39.734Z'
-dateModified: '2016-05-27T12:54:30.609Z'
+datePublished: '2016-05-27T13:00:53.604Z'
+dateModified: '2016-05-27T13:00:47.680Z'
 author:
   - name: NBA
     url: 'https://www.youtube.com/user/NBA'
@@ -60,6 +60,7 @@ app_links:
     namespace: google
     type: ios
 title: ''
+sourcePath: _posts/2016-05-27-finais-do-oeste-alimentado-pela-energia-da-torcida-gsw-venc.md
 authors: []
 publisher:
   name: YouTube
@@ -67,7 +68,6 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
-sourcePath: _posts/2016-05-27-finais-do-oeste-alimentado-pela-energia-da-torcida-gsw-venc.md
 url: finais-do-oeste-alimentado-pela-energia-da-torcida-gsw-venc/index.html
 _type: VideoObject
 _context: 'http://schema.org'
