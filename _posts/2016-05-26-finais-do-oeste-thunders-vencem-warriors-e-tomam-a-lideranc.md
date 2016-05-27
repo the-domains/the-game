@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-27T12:22:56.732Z'
-dateModified: '2016-05-27T12:22:54.279Z'
+datePublished: '2016-05-27T12:25:58.652Z'
+dateModified: '2016-05-27T12:25:52.303Z'
 title: 'Finais do Oeste: Thunders vencem Warriors e tomam a liderança da série'
 author: []
 sourcePath: _posts/2016-05-26-finais-do-oeste-thunders-vencem-warriors-e-tomam-a-lideranc.md
