@@ -5,12 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-27T12:19:30.831Z'
-dateModified: '2016-05-27T12:19:26.187Z'
+datePublished: '2016-05-27T12:22:21.609Z'
+dateModified: '2016-05-27T12:22:18.918Z'
 author:
   - name: ''
     url: ''
-title: 'Finais do Oeste: Alimentado pela energia da torcida GSW ganha e força Jogo 6'
+title: 'Finais do Oeste: Alimentado pela energia da torcida GSW ganha e agora força Jogo 6'
 sourcePath: _posts/2016-05-27-finais-do-oeste-alimentado-pela-energia-da-torcida-gsw-ganh.md
 authors: []
 publisher: null
@@ -19,7 +19,7 @@ url: finais-do-oeste-alimentado-pela-energia-da-torcida-gsw-ganh/index.html
 _type: Article
 
 ---
-# Finais do Oeste: Alimentado pela energia da torcida GSW ganha e força Jogo 6
+# Finais do Oeste: Alimentado pela energia da torcida GSW ganha e agora força Jogo 6
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac8fab71-a979-41b2-b61b-26d02ed521ec.jpg)
 
 Stephen Curry marcou 31 pontos na partida. Em alguns momentos erguia os braços para incitar a torcida do Golden State que já estava barulhenta e os defensores do título protelaram a eliminação com a vitória por 120-111 sobre o Oklahoma City Thunder na quinta-feira a noite, pelo 5º Jogo das Finais de Conferência do Lado Oeste.
