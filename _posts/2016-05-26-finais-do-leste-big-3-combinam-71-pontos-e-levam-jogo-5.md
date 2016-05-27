@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-26T22:10:31.524Z'
-dateModified: '2016-05-26T21:43:19.679Z'
+datePublished: '2016-05-27T12:33:30.415Z'
+dateModified: '2016-05-27T12:33:26.548Z'
 title: 'Finais do Leste: Big 3 combinam 71 pontos e levam Jogo 5'
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-26-finais-do-leste-big-3-combinam-71-pontos-e-levam-jogo-5.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-26-finais-do-leste-big-3-combinam-71-pontos-e-levam-jogo-5.md
 url: finais-do-leste-big-3-combinam-71-pontos-e-levam-jogo-5/index.html
 _type: Article
 
@@ -24,7 +24,7 @@ _type: Article
 
 Cleveland, jogando em casa o Cavs não foi nada hospitaleiro.
 
-Eles trataram rudemente os Raptors de novo.
+Eles trataram rudemente os Raptors mais uma vez.
 
 LeBron James marcou 23 pontos e não jogou o último quarto do jogo, Kevin Love marcou 25 e Cleveland desencadeou uma forte defesa pra cima do Toronto para readquirir a liderança das Finais de Conferencia do Leste com a vitória de 116-78 contra o Raptors no Jogo 5 na quarta a noite.
 
