@@ -1,20 +1,21 @@
 ---
-datePublished: '2016-05-27T12:09:33.741Z'
 inFeed: true
-authors: []
 hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
 keywords: []
+description: ''
+datePublished: '2016-05-27T12:14:51.919Z'
+dateModified: '2016-05-27T12:14:48.068Z'
 author:
   - name: Por Filipe Santos
     url: www.twitter.com/fisa67
-dateModified: '2016-05-27T12:09:26.483Z'
 title: 'Finais do Oeste: Alimentado pela energia da torcida GSW ganha e força Jogo 6'
-publisher: null
-description: ''
-inLanguage: null
-inNav: false
-starred: false
 sourcePath: _posts/2016-05-27-finais-do-oeste-alimentado-pela-energia-da-torcida-gsw-ganh.md
+authors: []
+publisher: null
+starred: false
 _type: Blurb
 
 ---
@@ -37,7 +38,7 @@ Atrás no placar por 58-50 no final do primeiro tempo, OKC voltou para quadra co
 
 A bola de 3 de Kevin Durant faltando 4:34 colocou o OKC em vantagem 103-98, mas Curry respondeu de imediato com uma cesta de pontos, não permitindo mais nenhuma reação do Thunder até o final da partida.
 
-Curry que converteu 9 de seus 20 arremessos, ainda teve 5 roubos de bola e Thompson que pelo décimo primeiro jogo consecutivo de Playoff marcou mais de 20 pontos, ele converteu 2 de nove tentativas dos 3 pontos. Draymond Green teve 11 pontos e 13 rebotes.
+Curry que converteu 9 de seus 20 arremessos, ainda teve 5 roubos de bola e Thompson que pelo décimo primeiro jogo consecutivo de Playoff marcou mais de 20 pontos, ele converteu 2 de 9 tentativas dos 3 pontos. Draymond Green teve 11 pontos e 13 rebotes.
 
 Curiosidade extra:
 
