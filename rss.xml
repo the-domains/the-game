@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 12:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 12:54:46 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Finais do Oeste: Alimentado pela energia da torcida GSW vence o Thunder e força Jogo 6]]></title>
+            <description><![CDATA[<p>Stephen Curry marcou 31 pontos na partida. Em alguns momentos erguia os braços para incitar a torcida do Golden State que já estava barulhenta e os defensores do título protelaram a eliminação com a vitória por 120-111 sobre o Oklahoma City Thunder na quinta-feira a noite, pelo 5º Jogo das Finais de Conferência do Lado Oeste.</p>]]></description>
+            <link>http://thegame.com.br/finais-do-oeste-alimentado-pela-energia-da-torcida-gsw-venc/index.html</link>
+            <guid isPermaLink="false">13b2b711-96ba-4786-891c-840d3d4a214b</guid>
+            <pubDate>Fri, 27 May 2016 12:54:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finais do Oeste: Alimentado pela energia da torcida GSW vence o Thunder e força Jogo 6]]></title>
             <description><![CDATA[<article><h1>Finais do Oeste: Alimentado pela energia da torcida GSW vence o Thunder e força Jogo 6</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac8fab71-a979-41b2-b61b-26d02ed521ec.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/finais-do-leste-cavs-continuam-perfeito-e-atropelam-raptors/index.html</link>
             <guid isPermaLink="false">54a11484-4df2-4aa8-8cab-82be0b914316</guid>
             <pubDate>Thu, 19 May 2016 15:38:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Okland: Thunder leva Warriors para um território que eles não costumam frequentar, com vitória no 1º Jogo das Finais]]></title>
-            <description><![CDATA[<article><h1>Okland: Thunder leva Warriors para um território que eles não costumam frequentar, com vitória no 1º Jogo das Finais</h1><p>Russel Westbrook surgiu com um impressionante terceiro quarto, marcando 19 de seus 27 pontos convertidos na partida, foi o fator decisivo para o resultado. Depois de ficar atras no placar por 13 pontos (maior vantagem aberta pelo GSW), o Thunder não deixou de acreditar na partida e foram reduzindo a vantagem ponto a ponto até encostarem no placar. </p></article>]]></description>
-            <link>http://thegame.com.br/okland-thunder-leva-warriors-para-um-territorio-que-eles-na/index.html</link>
-            <guid isPermaLink="false">e14f10ac-ea0b-47f7-9bbb-6478303b021f</guid>
-            <pubDate>Tue, 17 May 2016 13:16:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
