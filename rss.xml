@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 22:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 12:19:49 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Finais do Oeste: Alimentado pela energia da torcida GSW ganha e força Jogo 6]]></title>
+            <description><![CDATA[<article><h1>Finais do Oeste: Alimentado pela energia da torcida GSW ganha e força Jogo 6</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac8fab71-a979-41b2-b61b-26d02ed521ec.jpg"></article>]]></description>
+            <link>http://thegame.com.br/finais-do-oeste-alimentado-pela-energia-da-torcida-gsw-ganh/index.html</link>
+            <guid isPermaLink="false">f5f97a31-9830-4b25-ad38-76a0103ca1ab</guid>
+            <pubDate>Fri, 27 May 2016 12:19:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Presenting the 2015-16 All-NBA First Team!]]></title>
             <description><![CDATA[<article><h1>Presenting the 2015-16 All-NBA First Team!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75c581cacdac429696e549d5aba365ad533f65f9.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=gb0wmBUB4cg</link>
             <guid isPermaLink="false">66b89ba3-c587-4463-947b-9675d991b785</guid>
             <pubDate>Wed, 11 May 2016 11:20:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Experiência de Wade faz a diferença e Heat empata série em 2x2]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/82708262-f9b3-4876-ac53-8c78712e2de3.png">]]></description>
-            <link>http://thegame.com.br/experiencia-de-wade-faz-a-diferenca-e-heat-empata-serie-em-2/index.html</link>
-            <guid isPermaLink="false">b6ae3fea-d6ea-40ae-bf0d-f07a3fa82c6f</guid>
-            <pubDate>Tue, 10 May 2016 15:09:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
