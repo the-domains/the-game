@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'E ele conseguiu mais uma vez: Lebron leva Cavs a mais uma final da NBA Isso mesmo, pela 6ª vez consecutiva você verá King James na final da NBA. '
-datePublished: '2016-05-28T14:10:33.732Z'
-dateModified: '2016-05-28T14:02:22.884Z'
+description: 'Na noite de ontem ele e os Cavs conseguiram o que não haviam conseguido nessa temporada ainda, vencer o Raptors em Toronto por 113 x 87.'
+datePublished: '2016-05-28T14:29:50.136Z'
+dateModified: '2016-05-28T14:29:20.418Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-28-e-ele-conseguiu-mais-uma-vez-lebron-leva-cavs-a-mais-uma-fi.md
@@ -17,9 +17,9 @@ url: e-ele-conseguiu-mais-uma-vez-lebron-leva-cavs-a-mais-uma-fi/index.html
 _type: Article
 
 ---
-E ele conseguiu mais uma vez: Lebron leva Cavs a mais uma final da NBA Isso mesmo, pela 6ª vez consecutiva você verá King James na final da NBA. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c574e774-0631-4004-8aff-1e73b86251e5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2033b3d4-6d4c-4e8c-b46b-7ec6d0d81313.jpg)
 
-Na noite de ontem ele e os Cavs conseguiram o que não haviam conseguido nessa temporada ainda, vencer o Raptors em Toronto por 113 x 87\. 
+Na noite de ontem ele e os Cavs conseguiram o que não haviam conseguido nessa temporada ainda, vencer o Raptors em Toronto por 113 x 87\.  
 
 Lebron não queria dar chances para um possível jogo 7 e tratou logo de jogar 41 minutos para garantir que tudo sairia conforme planejado, ele acabou fazendo mais um double-double para sua lista com 33pts/11reb/6ast, ele ainda contou com 30pts de Kyrie Irving e 20pts de Kevin Love. 
 
