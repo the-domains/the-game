@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'E ele conseguiu mais uma vez: Lebron leva Cavs a mais uma final da NBA Isso mesmo, pela 6ª vez consecutiva você verá King James na final da NBA. '
-datePublished: '2016-05-28T13:41:00.750Z'
-dateModified: '2016-05-28T13:37:37.031Z'
+datePublished: '2016-05-28T14:10:33.732Z'
+dateModified: '2016-05-28T14:02:22.884Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-28-e-ele-conseguiu-mais-uma-vez-lebron-leva-cavs-a-mais-uma-fi.md
