@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'A parte difícil do trabalho parece ter terminado para o Golden State Warriors, que venceu o Cleveland Cavaliers no Jogo 1 da Finais da NBA por 104-89 na Oracle Arena.'
-datePublished: '2016-06-03T14:52:00.996Z'
-dateModified: '2016-06-03T14:51:58.863Z'
+datePublished: '2016-06-03T14:52:37.564Z'
+dateModified: '2016-06-03T14:52:35.496Z'
 title: Será que o Warriors já superou a parte mais difícil para vencer o Campeonato desse ano?
 author:
   - name: ''
