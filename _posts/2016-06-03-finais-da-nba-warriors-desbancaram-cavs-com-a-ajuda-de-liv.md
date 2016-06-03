@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Força que veio do banco
-datePublished: '2016-06-03T11:12:56.086Z'
-dateModified: '2016-06-03T11:12:53.221Z'
+description: 'Os Warriors saíram na frente no Jogo 1 das Finais da NBA, depois de derrotar o Cleveland Cavaliers por 104-89 na quinta (02) à noite.'
+datePublished: '2016-06-03T11:18:07.981Z'
+dateModified: '2016-06-03T11:18:05.231Z'
 title: 'Finais da NBA: Warriors desbancaram Cavs, com a ajuda de Livingston que marcou 20 pontos'
 author:
   - name: ''
@@ -19,9 +19,8 @@ url: finais-da-nba-warriors-desbancaram-cavs-com-a-ajuda-de-liv/index.html
 _type: Article
 
 ---
-![Força que veio do banco](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bf7624d-8f0f-4850-9c2c-989fbff4a38b.jpg)
-
 # Finais da NBA: Warriors desbancaram Cavs, com a ajuda de Livingston que marcou 20 pontos
+![Força que veio do banco, Livingston anotou sua maior pontuação em Playofss  com 20 pontos](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e50c3ec-dc4f-4445-936f-61865cffb63d.jpg)
 
 Os Warriors saíram na frente no Jogo 1 das Finais da NBA, depois de derrotar o Cleveland Cavaliers por 104-89 na quinta (02) à noite.
 
