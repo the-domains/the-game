@@ -1,14 +1,22 @@
 ---
-starred: false
-title: ''
-datePublished: '2016-06-03T10:22:23.904Z'
-dateModified: null
-author: []
-sourcePath: _posts/2016-06-03-finais-da-nba-warriors-desbancaram-cavs-com-a-ajuda-de-liv.md
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-_type: MediaObject
+inLanguage: null
+keywords: []
+description: Força que veio do banco
+datePublished: '2016-06-03T11:12:56.086Z'
+dateModified: '2016-06-03T11:12:53.221Z'
+title: 'Finais da NBA: Warriors desbancaram Cavs, com a ajuda de Livingston que marcou 20 pontos'
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-06-03-finais-da-nba-warriors-desbancaram-cavs-com-a-ajuda-de-liv.md
+authors: []
+publisher: null
+starred: false
+url: finais-da-nba-warriors-desbancaram-cavs-com-a-ajuda-de-liv/index.html
+_type: Article
 
 ---
 ![Força que veio do banco](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bf7624d-8f0f-4850-9c2c-989fbff4a38b.jpg)
