@@ -9,8 +9,8 @@ description: >-
   seguido da NBA. O campeão da Conferência Oeste abriu 2-0 e lidera a série
   melhor de 7 Jogos das Finais da NBA depois de conquistar a vitória por 110-77
   diante do Cleveland Cavaliers jogando em casa, a Oracle Arena.
-datePublished: '2016-06-06T14:00:23.620Z'
-dateModified: '2016-06-06T14:00:19.200Z'
+datePublished: '2016-06-06T14:09:53.669Z'
+dateModified: '2016-06-06T14:09:40.588Z'
 title: ''
 author:
   - name: ''
@@ -23,9 +23,9 @@ url: finais-da-nba-warriors-marreta-cavs-e-levam-jogo-2/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/774b2214-eb5b-427e-8b29-16f7bc4a6ecd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d5d0042f129a904d82d0484a3fe70e32db01857.jpg)
 
-# Finais da NBA: Warriors marretam Cavs e levam Jogo 2
+# Finais da NBA: Warriors marretaram Cavs e levam Jogo 2
 
 O Golden State Warriors está à dois jogos de conseguir seu segundo título seguido da NBA. O campeão da Conferência Oeste abriu 2-0 e lidera a série melhor de 7 Jogos das Finais da NBA depois de conquistar a vitória por 110-77 diante do Cleveland Cavaliers jogando em casa, a Oracle Arena.
 
