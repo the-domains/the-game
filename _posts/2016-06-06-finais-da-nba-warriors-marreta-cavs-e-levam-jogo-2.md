@@ -9,13 +9,13 @@ description: >-
   seguido da NBA. O campeão da Conferência Oeste abriu 2-0 e lidera a série
   melhor de 7 Jogos das Finais da NBA depois de conquistar a vitória por 110-77
   diante do Cleveland Cavaliers jogando em casa, a Oracle Arena.
-datePublished: '2016-06-06T14:09:53.669Z'
-dateModified: '2016-06-06T14:09:40.588Z'
-title: ''
+datePublished: '2016-06-06T14:22:53.033Z'
+dateModified: '2016-06-06T14:22:44.609Z'
+sourcePath: _posts/2016-06-06-finais-da-nba-warriors-marreta-cavs-e-levam-jogo-2.md
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-06-06-finais-da-nba-warriors-marreta-cavs-e-levam-jogo-2.md
+title: 'Finais da NBA: Warriors marretaram Cavs e levam Jogo 2'
 authors: []
 publisher: null
 starred: false
@@ -29,7 +29,7 @@ _type: Article
 
 O Golden State Warriors está à dois jogos de conseguir seu segundo título seguido da NBA. O campeão da Conferência Oeste abriu 2-0 e lidera a série melhor de 7 Jogos das Finais da NBA depois de conquistar a vitória por 110-77 diante do Cleveland Cavaliers jogando em casa, a Oracle Arena.
 
-De acordo com o site Basketball-Reference.com, a diferença imposta pelo Golden State de 33 pontos iguala a marca de maior diferença em jogos de final, pela sétima vez na história da Liga.
+De acordo com o site [Basketball-Reference.com][0], a diferença imposta pelo Golden State de 33 pontos iguala a marca de maior diferença em jogos de final, pela sétima vez na história da Liga.
 
 Se for possível, essa foi uma performance simultaneamente inexpressiva e dominante pelos Warriors. Eles cometeram 20 turnovers, mas equipe acertou 54.3% dos arremessos de quadra , incluindo 15 de 33 arremessos de três pontos.
 
@@ -61,3 +61,5 @@ Agora a série vai para Ohio na Quicken Loans Arena pelos próximos 2 jogos, Jog
 As things stand now, something radical will need to happen for Cleveland to turn the Finals around. Winning both games at home and evening the series will be a start, but Game 2 illustrated the gulf in class between the Cavaliers and the Warriors.
 
 E como as coisas estão no momento, é necessário uma mudança radical para os Cavaliers reverter o placar das Finais. Vencer os dois jogos que eles farão em casa será um começo, mas o Jogo 2 mostrou a disparidade entre as duas equipes.
+
+[0]: http://www.basketball-reference.com/play-index/tgl_finder.cgi?request=1&match=game&lg_id=NBA&year_min=1947&year_max=2016&team_id=&opp_id=&is_playoffs=Y&round_id=fin&best_of=&team_seed_cmp=eq&team_seed=&opp_seed_cmp=eq&opp_seed=&is_range=N&game_num_type=team&game_num_min=&game_num_max=&game_month=&game_location=&game_result=&is_overtime=&c1stat=&c1comp=gt&c1val=&c2stat=&c2comp=gt&c2val=&c3stat=&c3comp=gt&c3val=&c4stat=&c4comp=gt&c4val=&c5stat=&c5comp=gt&c5val=&order_by=diff_pts
