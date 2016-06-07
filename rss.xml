@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 14:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 12:56:29 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Seleção olímpica anuncia novas dispensas da pré-lista olímpica]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d67f2666-4997-4bf0-9c76-2c7744ca155b.jpg">]]></description>
+            <link>http://thegame.com.br/selecao-olimpica-anuncia-novas-dispensas-da-pre-lista-olimpi/index.html</link>
+            <guid isPermaLink="false">f40a0bbb-a571-49eb-89a2-a0027ff38e80</guid>
+            <pubDate>Tue, 07 Jun 2016 12:56:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finais da NBA: Warriors marretaram Cavs e levam Jogo 2]]></title>
             <description><![CDATA[<article><h1>Finais da NBA: Warriors marretaram Cavs e levam Jogo 2</h1><p>O Golden State Warriors está à dois jogos de conseguir seu segundo título seguido da NBA. O campeão da Conferência Oeste abriu 2-0 e lidera a série melhor de 7 Jogos das Finais da NBA depois de conquistar a vitória por 110-77 diante do Cleveland Cavaliers jogando em casa, a Oracle Arena.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d5d0042f129a904d82d0484a3fe70e32db01857.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BF4amC2Rh77/?taken-by=nba</link>
             <guid isPermaLink="false">998e5832-56f1-4727-a8fb-1b4ecaee0d7f</guid>
             <pubDate>Fri, 27 May 2016 12:28:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finais do Oeste: Thunders vencem Warriors e tomam a liderança da série]]></title>
-            <description><![CDATA[<article><h1>Finais do Oeste: Thunders vencem Warriors e tomam a liderança da série</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cd1b9d6-6fb4-43ed-b4b1-e7b989508d93.jpg"></article>]]></description>
-            <link>http://thegame.com.br/finais-do-oeste-thunders-vencem-warriors-e-tomam-a-lideranc/index.html</link>
-            <guid isPermaLink="false">cc20bcb2-a2fc-4ef3-aa74-faf0f286fc4f</guid>
-            <pubDate>Fri, 27 May 2016 12:25:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
