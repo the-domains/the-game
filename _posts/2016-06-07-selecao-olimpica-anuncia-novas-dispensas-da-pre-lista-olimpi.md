@@ -8,16 +8,16 @@ description: >-
   Faltando exatos 59 dias para os jogos olímpicos no Rio de Janeiro, a seleção
   norte americana de basquete sofreu mais duas baixas nos últimos dias na sua
   pré-lista que contavam inicialmente com 31 atletas, agora a lista passa a
-  contar apenas com 25 atletas. 
-datePublished: '2016-06-07T12:56:25.633Z'
-dateModified: '2016-06-07T12:55:04.696Z'
+  contar apenas com 25 atletas.
+datePublished: '2016-06-07T13:03:06.010Z'
+dateModified: '2016-06-07T13:02:40.703Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-06-07-selecao-olimpica-anuncia-novas-dispensas-da-pre-lista-olimpi.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-07-selecao-olimpica-anuncia-novas-dispensas-da-pre-lista-olimpi.md
 url: selecao-olimpica-anuncia-novas-dispensas-da-pre-lista-olimpi/index.html
 _type: Article
 
