@@ -8,15 +8,15 @@ description: >-
   O Cleveland Cavaliers parecia um mero pretendente ao Título durante as duas
   partidas das Finais da NBA, porém ontem eles mostraram porque chegaram até
   aqui, tomaram os Warriors de assalto e venceram o Jogo 3 por 120-90 na Quicken
-  Loans Arena na noite de quarta.
-datePublished: '2016-06-09T16:01:07.207Z'
-dateModified: '2016-06-09T16:00:59.045Z'
+  Loans Arena na noite de quarta. 
+datePublished: '2016-06-09T16:10:38.469Z'
+dateModified: '2016-06-09T16:10:27.838Z'
 title: 'Finais da NBA: Cavs espanca Warriors para voltar pra série'
 author: []
+sourcePath: _posts/2016-06-09-finais-da-nba-cavs-espanca-warriors-para-voltar-pra-serie.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-09-finais-da-nba-cavs-espanca-warriors-para-voltar-pra-serie.md
 url: finais-da-nba-cavs-espanca-warriors-para-voltar-pra-serie/index.html
 _type: Article
 
@@ -24,12 +24,10 @@ _type: Article
 # Finais da NBA: Cavs espanca Warriors para voltar pra série
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d6945a4-69b8-48e5-870b-1a44653972a5.jpg)
 
-O Cleveland Cavaliers parecia um mero pretendente ao Título durante as duas partidas das Finais da NBA, porém ontem eles mostraram porque chegaram até aqui, tomaram os Warriors de assalto e venceram o Jogo 3 por 120-90 na Quicken Loans Arena na noite de quarta.  
+O Cleveland Cavaliers parecia um mero pretendente ao Título durante as duas partidas das Finais da NBA, porém ontem eles mostraram porque chegaram até aqui, tomaram os Warriors de assalto e venceram o Jogo 3 por 120-90 na Quicken Loans Arena na noite de quarta.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0f668f8-7ae0-4cd3-84ea-84c06332b632.jpg)
 
-Jogando em casa, os campeões da Conferência Leste estão com 8 vitórias e 0 derrotas nessa pós temporada e agora à um jogo de empatar a série em 2-2, o Jogo 4 está previsto para sexta feira dia 10 de Junho.
-
-Encarando a difícil tarefa de ser obrigado a vencer o Jogo 3, disse em bom português para seus companheiros antes da partida para "Confiar na sua liderança e para cada um fazer seu trabalho". E como ambas as partes acordaram, assim eles atingiram seu objetivo.
+Encarando a difícil tarefa de ser obrigado a vencer o Jogo 3, LeBron disse em bom português para seus companheiros antes da partida para "Confiar na sua liderança e para cada um fazer seu trabalho". E como ambas as partes acordaram, assim eles atingiram seu objetivo.
 
 LeBron James terminou a partida com uma excelente atuação. Foram 32 pontos, 11 rebotes e 6 assistências. Mas a parte mais impressionante de sua atuação não foram suas 14 conversões de 26 tentativas e sim uma enxurrada de enterradas que distribuiu durante a partida, algo que não foi visto em seu repertório nas duas primeiras partidas.
 
