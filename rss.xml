@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 13:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 08:52:10 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cleveland devolve surra sofrida no jogo 2 e diminui diferença para 2-1]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f35d478-0191-4949-889f-eac661f87359.jpg">]]></description>
+            <link>http://thegame.com.br/cleveland-devolve-surra-sofrida-no-jogo-2-e-diminui-diferenc/index.html</link>
+            <guid isPermaLink="false">0ef02e31-e5c8-44cd-90a7-9305659ec3cb</guid>
+            <pubDate>Thu, 09 Jun 2016 08:52:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Seleção americana anuncia os 25 jogadores para Camp Olímpico]]></title>
             <description><![CDATA[<p>A seleção americana de basquete anunciou ontem os 25 jogadores que irão treinar com a seleção olímpica entre os dias 18 à 21 de julho durante os treinamentos que acontecerão em Las Vegas. </p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/finais-do-oeste-alimentado-pela-energia-da-torcida-gsw-venc/index.html</link>
             <guid isPermaLink="false">13b2b711-96ba-4786-891c-840d3d4a214b</guid>
             <pubDate>Fri, 27 May 2016 13:09:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finais do Leste: Big 3 combinam 71 pontos e levam Jogo 5]]></title>
-            <description><![CDATA[<article><h1>Finais do Leste: Big 3 combinam 71 pontos e levam Jogo 5</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e1b4113-3223-4ecb-b7cd-7d4dbe2df73a.jpg"></article>]]></description>
-            <link>http://thegame.com.br/finais-do-leste-big-3-combinam-71-pontos-e-levam-jogo-5/index.html</link>
-            <guid isPermaLink="false">328dace7-ecc9-4c7e-b11d-6ff45080ea7d</guid>
-            <pubDate>Fri, 27 May 2016 12:33:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
