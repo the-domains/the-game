@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 08:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 16:01:42 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Finais da NBA: Cavs espanca Warriors para voltar pra série]]></title>
+            <description><![CDATA[<article><h1>Finais da NBA: Cavs espanca Warriors para voltar pra série</h1><p>O Cleveland Cavaliers parecia um mero pretendente ao Título durante as duas partidas das Finais da NBA, porém ontem eles mostraram porque chegaram até aqui, tomaram os Warriors de assalto e venceram o Jogo 3 por 120-90 na Quicken Loans Arena na noite de quarta.</p></article>]]></description>
+            <link>http://thegame.com.br/finais-da-nba-cavs-espanca-warriors-para-voltar-pra-serie/index.html</link>
+            <guid isPermaLink="false">7ef972ca-29e0-4fd7-8abe-0d26cf0a6c0a</guid>
+            <pubDate>Thu, 09 Jun 2016 16:01:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cleveland devolve surra sofrida no jogo 2 e diminui diferença para 2-1]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f35d478-0191-4949-889f-eac661f87359.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/e-ele-conseguiu-mais-uma-vez-lebron-leva-cavs-a-mais-uma-fi/index.html</link>
             <guid isPermaLink="false">0da9818a-e89c-46a3-8e33-8a23c2385843</guid>
             <pubDate>Sat, 28 May 2016 14:29:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finais do Oeste: Alimentado pela energia da torcida GSW vence o Thunder e força Jogo 6]]></title>
-            <description><![CDATA[<p>Stephen Curry marcou 31 pontos na partida. Em alguns momentos erguia os braços para incitar a torcida do Golden State que já estava barulhenta e os defensores do título protelaram a eliminação com a vitória por 120-111 sobre o Oklahoma City Thunder na quinta-feira a noite, pelo 5º Jogo das Finais de Conferência do Lado Oeste.</p>]]></description>
-            <link>http://thegame.com.br/finais-do-oeste-alimentado-pela-energia-da-torcida-gsw-venc/index.html</link>
-            <guid isPermaLink="false">13b2b711-96ba-4786-891c-840d3d4a214b</guid>
-            <pubDate>Fri, 27 May 2016 13:09:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
