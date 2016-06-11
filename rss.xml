@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 16:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 00:01:01 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nova baixa na seleção olímpica americana]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44e90bbe-2c6b-4f4a-9b54-d71451ccab43.jpg">]]></description>
+            <link>http://thegame.com.br/nova-baixa-na-selecao-olimpica-americana/index.html</link>
+            <guid isPermaLink="false">5cec843b-c288-486c-b2da-bd4e94e8d2bb</guid>
+            <pubDate>Sat, 11 Jun 2016 00:00:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finais da NBA: Cavs espanca Warriors para voltar pra série]]></title>
             <description><![CDATA[<article><h1>Finais da NBA: Cavs espanca Warriors para voltar pra série</h1><p>O Cleveland Cavaliers parecia um mero pretendente ao Título durante as duas partidas das Finais da NBA, porém ontem eles mostraram porque chegaram até aqui, tomaram os Warriors de assalto e venceram o Jogo 3 por 120-90 na Quicken Loans Arena na noite de quarta.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/finais-do-oeste-que-venha-o-jogo-7-raisedvictory/index.html</link>
             <guid isPermaLink="false">abd07d2f-8b98-4b2b-bf9f-5b33b3803022</guid>
             <pubDate>Sun, 29 May 2016 15:19:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[E ele conseguiu mais uma vez: Lebron leva Cavs a mais uma final da NBA Isso mesmo, pela 6ª vez consecutiva você verá King James na final da NBA.]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f69b275-3779-4577-949c-90dfcf4cdd59.jpg">]]></description>
-            <link>http://thegame.com.br/e-ele-conseguiu-mais-uma-vez-lebron-leva-cavs-a-mais-uma-fi/index.html</link>
-            <guid isPermaLink="false">0da9818a-e89c-46a3-8e33-8a23c2385843</guid>
-            <pubDate>Sat, 28 May 2016 14:29:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
