@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 00:01:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 04:03:24 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nada de "Barba do Capeta" nas Olimpíadas]]></title>
+            <description><![CDATA[<p>Poucas horas após o anúncio de dispensa de Russel Westbrook da seleção norte americana que vai para as olimpíadas, foi a vez do "Barba do Capeta" abrir mão dos jogos no Rio.</p>]]></description>
+            <link>http://thegame.com.br/nada-de-barba-do-capeta-nas-olimpiadas/index.html</link>
+            <guid isPermaLink="false">53b9e0d5-571d-4e2e-aa90-c23b1cf66701</guid>
+            <pubDate>Sat, 11 Jun 2016 04:03:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nova baixa na seleção olímpica americana]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44e90bbe-2c6b-4f4a-9b54-d71451ccab43.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/finais-do-oeste-thunder-nao-quis-ir-para-as-finais-da-nba/index.html</link>
             <guid isPermaLink="false">b7271210-8cf8-4487-9a33-6c6fa1364c4e</guid>
             <pubDate>Wed, 01 Jun 2016 11:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finais do Oeste: Que venha o Jogo 7! ✋✌️]]></title>
-            <description><![CDATA[<article><h1>Finais do Oeste: Que venha o Jogo 7! ✋✌️</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68bcca4e014fa8c5ac56e4947b3a7f5b6bb5db9c.jpg"></article>]]></description>
-            <link>http://thegame.com.br/finais-do-oeste-que-venha-o-jogo-7-raisedvictory/index.html</link>
-            <guid isPermaLink="false">abd07d2f-8b98-4b2b-bf9f-5b33b3803022</guid>
-            <pubDate>Sun, 29 May 2016 15:19:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
