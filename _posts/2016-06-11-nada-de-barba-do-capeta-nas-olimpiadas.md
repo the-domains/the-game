@@ -8,14 +8,14 @@ description: >-
   Poucas horas após o anúncio de dispensa de Russel Westbrook da seleção norte
   americana que vai para as olimpíadas, foi a vez do "Barba do Capeta" abrir mão
   dos jogos no Rio.
-datePublished: '2016-06-11T04:03:17.036Z'
-dateModified: '2016-06-11T04:03:01.381Z'
+datePublished: '2016-06-11T04:21:00.479Z'
+dateModified: '2016-06-11T04:20:43.931Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-11-nada-de-barba-do-capeta-nas-olimpiadas.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-11-nada-de-barba-do-capeta-nas-olimpiadas.md
 url: nada-de-barba-do-capeta-nas-olimpiadas/index.html
 _type: Article
 
