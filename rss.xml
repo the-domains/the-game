@@ -4,8 +4,15 @@
         <description><![CDATA[The Game]]></description>
         <link>http://thegame.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 04:31:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 04:10:18 GMT</lastBuildDate>
         <atom:link href="http://thegame.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cleveland dá outra surra nos Warriors e força jogo 7 ]]></title>
+            <description><![CDATA[<p>Avassaladores desse o primeiro minuto de jogo, o Cleveland Cavaliers mostrou toda sua raça e vontade de vencer a partida e forçar o jogo 7. Já pelo lado dos Warriors, o jogo coletivo que encantou os torcedores a temporada inteira novamente não apareceu, além disso, seu principal jogador, Stephen Curry saiu de quadra com 6 faltas. Final da partida 115 x 101 para os Cavaliers.</p>]]></description>
+            <link>http://thegame.com.br/cleveland-da-outra-surra-nos-warriors-e-forca-jogo-7/index.html</link>
+            <guid isPermaLink="false">496eaace-88fb-43dd-bffc-61801ed65815</guid>
+            <pubDate>Fri, 17 Jun 2016 04:10:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nada de Barba do Capeta na Olimpíada]]></title>
             <description><![CDATA[<p>Poucas horas após o anúncio de dispensa de Russel Westbrook da seleção norte americana que vai para as olimpíadas, foi a vez do "Barba do Capeta" abrir mão dos jogos no Rio.</p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://thegame.com.br/finais-da-nba-warriors-desbancaram-cavs-com-a-ajuda-de-liv/index.html</link>
             <guid isPermaLink="false">cb4f1e95-5dde-4da7-a357-d5d3d0c693bb</guid>
             <pubDate>Fri, 03 Jun 2016 11:18:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finais do Oeste: Thunder não quis ir para as Finais da NBA, então o Warriors foi no lugar deles.]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6371a9ea-bf64-42a1-8dcb-8dbab936f0b3.jpg" alt="" title="" />]]></description>
-            <link>http://thegame.com.br/finais-do-oeste-thunder-nao-quis-ir-para-as-finais-da-nba/index.html</link>
-            <guid isPermaLink="false">b7271210-8cf8-4487-9a33-6c6fa1364c4e</guid>
-            <pubDate>Wed, 01 Jun 2016 11:01:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
